@@ -1,5 +1,5 @@
 # CyTOF_NO
-Analysis of CyTOF data of CD45+ cells from tumor microenvironment of GBM for NO.
+Analysis of CD45+ cells from tumor microenvironment of GBM for NO (CyTOF)
 
 Dataset:
 https://www.sciencedirect.com/science/article/pii/S0092867420305614
