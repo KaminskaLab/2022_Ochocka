@@ -1,0 +1,876 @@
+Ensembl Id	Gene Name	Description	Entrez
+ENSMUSG00000020831	0610010K14Rik	RIKEN cDNA 0610010K14 gene [Source:MGI Symbol;Acc:MGI:1915609]	104457
+ENSMUSG00000054676	1600014C10Rik	RIKEN cDNA 1600014C10 gene [Source:MGI Symbol;Acc:MGI:1919494]	72244
+ENSMUSG00000043391	2510009E07Rik	RIKEN cDNA 2510009E07 gene [Source:MGI Symbol;Acc:MGI:1919440]	72190
+ENSMUSG00000023088	Abcc1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1 [Source:MGI Symbol;Acc:MGI:102676]	17250
+ENSMUSG00000020865	Abcc3	ATP-binding cassette, sub-family C (CFTR/MRP), member 3 [Source:MGI Symbol;Acc:MGI:1923658]	76408
+ENSMUSG00000062908	Acadm	acyl-Coenzyme A dehydrogenase, medium chain [Source:MGI Symbol;Acc:MGI:87867]	11364
+ENSMUSG00000023832	Acat2	acetyl-Coenzyme A acetyltransferase 2 [Source:MGI Symbol;Acc:MGI:87871]	110460
+ENSMUSG00000026499	Acbd3	acyl-Coenzyme A binding domain containing 3 [Source:MGI Symbol;Acc:MGI:2181074]	170760
+ENSMUSG00000018796	Acsl1	acyl-CoA synthetase long-chain family member 1 [Source:MGI Symbol;Acc:MGI:102797]	14081
+ENSMUSG00000000532	Acvr1b	activin A receptor, type 1B [Source:MGI Symbol;Acc:MGI:1338944]	11479
+ENSMUSG00000031553	Adam3	a disintegrin and metallopeptidase domain 3 (cyritestin) [Source:MGI Symbol;Acc:MGI:102518]	11497
+ENSMUSG00000027951	Adar	adenosine deaminase, RNA-specific [Source:MGI Symbol;Acc:MGI:1889575]	56417
+ENSMUSG00000030790	Adm	adrenomedullin [Source:MGI Symbol;Acc:MGI:108058]	11535
+ENSMUSG00000018500	Adora2b	adenosine A2b receptor [Source:MGI Symbol;Acc:MGI:99403]	11541
+ENSMUSG00000015961	Adss	adenylosuccinate synthetase, non muscle [Source:MGI Symbol;Acc:MGI:87948]	11566
+ENSMUSG00000011148	Adssl1	adenylosuccinate synthetase like 1 [Source:MGI Symbol;Acc:MGI:87947]	11565
+ENSMUSG00000029313	Aff1	AF4/FMR2 family, member 1 [Source:MGI Symbol;Acc:MGI:1100819]	17355
+ENSMUSG00000049659	Aftph	aftiphilin [Source:MGI Symbol;Acc:MGI:1923012]	216549
+ENSMUSG00000029722	Agfg2	ArfGAP with FG repeats 2 [Source:MGI Symbol;Acc:MGI:2443267]	231801
+ENSMUSG00000033400	Agl	amylo-1,6-glucosidase, 4-alpha-glucanotransferase [Source:MGI Symbol;Acc:MGI:1924809]	77559
+ENSMUSG00000036932	Aifm1	apoptosis-inducing factor, mitochondrion-associated 1 [Source:MGI Symbol;Acc:MGI:1349419]	26926
+ENSMUSG00000037860	Aim2	absent in melanoma 2 [Source:MGI Symbol;Acc:MGI:2686159]	383619
+ENSMUSG00000024045	Akap8	A kinase (PRKA) anchor protein 8 [Source:MGI Symbol;Acc:MGI:1928488]	56399
+ENSMUSG00000019699	Akt3	thymoma viral proto-oncogene 3 [Source:MGI Symbol;Acc:MGI:1345147]	23797
+ENSMUSG00000031667	Aktip	thymoma viral proto-oncogene 1 interacting protein [Source:MGI Symbol;Acc:MGI:3693832]	14339
+ENSMUSG00000035561	Aldh1b1	aldehyde dehydrogenase 1 family, member B1 [Source:MGI Symbol;Acc:MGI:1919785]	72535
+ENSMUSG00000026687	Aldh9a1	aldehyde dehydrogenase 9, subfamily A1 [Source:MGI Symbol;Acc:MGI:1861622]	56752
+ENSMUSG00000041718	Alg13	asparagine-linked glycosylation 13 [Source:MGI Symbol;Acc:MGI:1914824]	67574
+ENSMUSG00000005686	Ampd3	adenosine monophosphate deaminase 3 [Source:MGI Symbol;Acc:MGI:1096344]	11717
+ENSMUSG00000025135	Anapc11	anaphase promoting complex subunit 11 [Source:MGI Symbol;Acc:MGI:1913406]	66156
+ENSMUSG00000040351	Ankib1	ankyrin repeat and IBR domain containing 1 [Source:MGI Symbol;Acc:MGI:1918047]	70797
+ENSMUSG00000036777	Anln	anillin, actin binding protein [Source:MGI Symbol;Acc:MGI:1920174]	68743
+ENSMUSG00000015749	Anp32e	acidic (leucine-rich) nuclear phosphoprotein 32 family, member E [Source:MGI Symbol;Acc:MGI:1913721]	66471
+ENSMUSG00000021322	Aoah	acyloxyacyl hydrolase [Source:MGI Symbol;Acc:MGI:1350928]	27052
+ENSMUSG00000019979	Apaf1	apoptotic peptidase activating factor 1 [Source:MGI Symbol;Acc:MGI:1306796]	11783
+ENSMUSG00000009585	Apobec3	apolipoprotein B mRNA editing enzyme, catalytic polypeptide 3 [Source:MGI Symbol;Acc:MGI:1933111]	80287
+ENSMUSG00000042759	Apobr	apolipoprotein B receptor [Source:MGI Symbol;Acc:MGI:2176230]	171504
+ENSMUSG00000022548	Apod	apolipoprotein D [Source:MGI Symbol;Acc:MGI:88056]	11815
+ENSMUSG00000068246	Apol9b	apolipoprotein L 9b [Source:MGI Symbol;Acc:MGI:1919148]	71898
+ENSMUSG00000040383	Aqr	aquarius [Source:MGI Symbol;Acc:MGI:1276102]	11834
+ENSMUSG00000037999	Arap2	ArfGAP with RhoGAP domain, ankyrin repeat and PH domain 2 [Source:MGI Symbol;Acc:MGI:2684416]	212285
+ENSMUSG00000039031	Arhgap18	Rho GTPase activating protein 18 [Source:MGI Symbol;Acc:MGI:1921160]	73910
+ENSMUSG00000035133	Arhgap5	Rho GTPase activating protein 5 [Source:MGI Symbol;Acc:MGI:1332637]	11855
+ENSMUSG00000021895	Arhgef3	Rho guanine nucleotide exchange factor (GEF) 3 [Source:MGI Symbol;Acc:MGI:1918954]	71704
+ENSMUSG00000037447	Arid5a	AT rich interactive domain 5A (MRF1-like) [Source:MGI Symbol;Acc:MGI:2443039]	214855
+ENSMUSG00000047446	Arl4a	ADP-ribosylation factor-like 4A [Source:MGI Symbol;Acc:MGI:99437]	11861
+ENSMUSG00000036093	Arl5a	ADP-ribosylation factor-like 5A [Source:MGI Symbol;Acc:MGI:1922673]	75423
+ENSMUSG00000049047	Armcx3	armadillo repeat containing, X-linked 3 [Source:MGI Symbol;Acc:MGI:1918953]	71703
+ENSMUSG00000018909	Arrb1	arrestin, beta 1 [Source:MGI Symbol;Acc:MGI:99473]	109689
+ENSMUSG00000042659	Arrdc4	arrestin domain containing 4 [Source:MGI Symbol;Acc:MGI:1913662]	66412
+ENSMUSG00000024887	Asah2	N-acylsphingosine amidohydrolase 2 [Source:MGI Symbol;Acc:MGI:1859310]	54447
+ENSMUSG00000033781	Asb13	ankyrin repeat and SOCS box-containing 13 [Source:MGI Symbol;Acc:MGI:2145525]	142688
+ENSMUSG00000019857	Asf1a	ASF1 anti-silencing function 1 homolog A (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1913653]	66403
+ENSMUSG00000033952	Aspm	asp (abnormal spindle)-like, microcephaly associated (Drosophila) [Source:MGI Symbol;Acc:MGI:1334448]	12316
+ENSMUSG00000029036	Atad3a	ATPase family, AAA domain containing 3A [Source:MGI Symbol;Acc:MGI:1919214]	108888
+ENSMUSG00000025324	Atp10a	ATPase, class V, type 10A [Source:MGI Symbol;Acc:MGI:1330809]	11982
+ENSMUSG00000037400	Atp11b	ATPase, class VI, type 11B [Source:MGI Symbol;Acc:MGI:1923545]	76295
+ENSMUSG00000022533	Atp13a3	ATPase type 13A3 [Source:MGI Symbol;Acc:MGI:2685387]	224088
+ENSMUSG00000006057	Atp5g1	ATP synthase, H+ transporting, mitochondrial F0 complex, subunit c1 (subunit 9) [Source:MGI Symbol;Acc:MGI:107653]	11951
+ENSMUSG00000025646	Atrip	ATR interacting protein [Source:MGI Symbol;Acc:MGI:1925349]	235610
+ENSMUSG00000027496	Aurka	aurora kinase A [Source:MGI Symbol;Acc:MGI:894678]	20878
+ENSMUSG00000018821	Avpi1	arginine vasopressin-induced 1 [Source:MGI Symbol;Acc:MGI:1916784]	69534
+ENSMUSG00000075010	AW112010	expressed sequence AW112010 [Source:MGI Symbol;Acc:MGI:2147706]	
+ENSMUSG00000039182	AW209491	expressed sequence AW209491 [Source:MGI Symbol;Acc:MGI:2145422]	105351
+ENSMUSG00000002602	Axl	AXL receptor tyrosine kinase [Source:MGI Symbol;Acc:MGI:1347244]	26362
+ENSMUSG00000039285	Azi2	5-azacytidine induced gene 2 [Source:MGI Symbol;Acc:MGI:1351332]	27215
+ENSMUSG00000022793	B4galt4	UDP-Gal:betaGlcNAc beta 1,4-galactosyltransferase, polypeptide 4 [Source:MGI Symbol;Acc:MGI:1928387]	56375
+ENSMUSG00000024844	Banf1	barrier to autointegration factor 1 [Source:MGI Symbol;Acc:MGI:1346330]	23825
+ENSMUSG00000039699	Batf2	basic leucine zipper transcription factor, ATF-like 2 [Source:MGI Symbol;Acc:MGI:1921731]	74481
+ENSMUSG00000084957	Bbip1	BBSome interacting protein 1 [Source:MGI Symbol;Acc:MGI:1913610]	100503572
+ENSMUSG00000094796	BC147527	cDNA sequence BC147527 [Source:MGI Symbol;Acc:MGI:4840510]	625360
+ENSMUSG00000020650	Bcap29	B cell receptor associated protein 29 [Source:MGI Symbol;Acc:MGI:101917]	12033
+ENSMUSG00000022508	Bcl6	B cell leukemia/lymphoma 6 [Source:MGI Symbol;Acc:MGI:107187]	12053
+ENSMUSG00000032066	Bco2	beta-carotene oxygenase 2 [Source:MGI Symbol;Acc:MGI:2177469]	170752
+ENSMUSG00000022684	Bfar	bifunctional apoptosis regulator [Source:MGI Symbol;Acc:MGI:1914368]	67118
+ENSMUSG00000004446	Bid	BH3 interacting domain death agonist [Source:MGI Symbol;Acc:MGI:108093]	12122
+ENSMUSG00000024381	Bin1	bridging integrator 1 [Source:MGI Symbol;Acc:MGI:108092]	30948
+ENSMUSG00000032000	Birc3	baculoviral IAP repeat-containing 3 [Source:MGI Symbol;Acc:MGI:1197007]	11796
+ENSMUSG00000001999	Blvra	biliverdin reductase A [Source:MGI Symbol;Acc:MGI:88170]	109778
+ENSMUSG00000022051	Bnip3l	BCL2/adenovirus E1B interacting protein 3-like [Source:MGI Symbol;Acc:MGI:1332659]	100044398
+ENSMUSG00000024335	Brd2	bromodomain containing 2 [Source:MGI Symbol;Acc:MGI:99495]	14312
+ENSMUSG00000029082	Bst1	bone marrow stromal cell antigen 1 [Source:MGI Symbol;Acc:MGI:105370]	12182
+ENSMUSG00000046718	Bst2	bone marrow stromal cell antigen 2 [Source:MGI Symbol;Acc:MGI:1916800]	69550
+ENSMUSG00000052477	C130026I21Rik	RIKEN cDNA C130026I21 gene [Source:MGI Symbol;Acc:MGI:3612702]	620078
+ENSMUSG00000055172	C1ra	complement component 1, r subcomponent A [Source:MGI Symbol;Acc:MGI:1355313]	50909
+ENSMUSG00000024371	C2	complement component 2 (within H-2S) [Source:MGI Symbol;Acc:MGI:88226]	12263
+ENSMUSG00000017412	Cacnb4	calcium channel, voltage-dependent, beta 4 subunit [Source:MGI Symbol;Acc:MGI:103301]	12298
+ENSMUSG00000013629	Cad	carbamoyl-phosphate synthetase 2, aspartate transcarbamylase, and dihydroorotase [Source:MGI Symbol;Acc:MGI:1916969]	69719
+ENSMUSG00000032246	Calml4	calmodulin-like 4 [Source:MGI Symbol;Acc:MGI:1922850]	75600
+ENSMUSG00000030272	Camk1	calcium/calmodulin-dependent protein kinase I [Source:MGI Symbol;Acc:MGI:1098535]	52163
+ENSMUSG00000020368	Canx	calnexin [Source:MGI Symbol;Acc:MGI:88261]	12330
+ENSMUSG00000037326	Capn15	calpain 15 [Source:MGI Symbol;Acc:MGI:1355075]	50817
+ENSMUSG00000032373	Car12	carbonic anyhydrase 12 [Source:MGI Symbol;Acc:MGI:1923709]	76459
+ENSMUSG00000008393	Carhsp1	calcium regulated heat stable protein 1 [Source:MGI Symbol;Acc:MGI:1196368]	52502
+ENSMUSG00000031012	Cask	calcium/calmodulin-dependent serine protein kinase (MAGUK family) [Source:MGI Symbol;Acc:MGI:1309489]	12361
+ENSMUSG00000025888	Casp1	caspase 1 [Source:MGI Symbol;Acc:MGI:96544]	12362
+ENSMUSG00000029863	Casp2	caspase 2 [Source:MGI Symbol;Acc:MGI:97295]	12366
+ENSMUSG00000033538	Casp4	caspase 4, apoptosis-related cysteine peptidase [Source:MGI Symbol;Acc:MGI:107700]	12363
+ENSMUSG00000025076	Casp7	caspase 7 [Source:MGI Symbol;Acc:MGI:109383]	12369
+ENSMUSG00000026029	Casp8	caspase 8 [Source:MGI Symbol;Acc:MGI:1261423]	12370
+ENSMUSG00000000058	Cav2	caveolin 2 [Source:MGI Symbol;Acc:MGI:107571]	12390
+ENSMUSG00000029836	Cbx3	chromobox 3 [Source:MGI Symbol;Acc:MGI:108515]	100862604
+ENSMUSG00000042111	Ccdc115	coiled-coil domain containing 115 [Source:MGI Symbol;Acc:MGI:1916918]	69668
+ENSMUSG00000031143	Ccdc22	coiled-coil domain containing 22 [Source:MGI Symbol;Acc:MGI:1859608]	54638
+ENSMUSG00000026339	Ccdc93	coiled-coil domain containing 93 [Source:MGI Symbol;Acc:MGI:1918079]	70829
+ENSMUSG00000035042	Ccl5	chemokine (C-C motif) ligand 5 [Source:MGI Symbol;Acc:MGI:98262]	20304
+ENSMUSG00000018927	Ccl6	chemokine (C-C motif) ligand 6 [Source:MGI Symbol;Acc:MGI:98263]	20305
+ENSMUSG00000009185	Ccl8	chemokine (C-C motif) ligand 8 [Source:MGI Symbol;Acc:MGI:101878]	100503254
+ENSMUSG00000020326	Ccng1	cyclin G1 [Source:MGI Symbol;Acc:MGI:102890]	12450
+ENSMUSG00000021548	Ccnh	cyclin H [Source:MGI Symbol;Acc:MGI:1913921]	66671
+ENSMUSG00000043953	Ccrl2	chemokine (C-C motif) receptor-like 2 [Source:MGI Symbol;Acc:MGI:1920904]	54199
+ENSMUSG00000021624	Cd180	CD180 antigen [Source:MGI Symbol;Acc:MGI:1194924]	17079
+ENSMUSG00000016496	Cd274	CD274 antigen [Source:MGI Symbol;Acc:MGI:1926446]	60533
+ENSMUSG00000026012	Cd28	CD28 antigen [Source:MGI Symbol;Acc:MGI:88327]	12487
+ENSMUSG00000047798	Cd300lf	CD300 antigen like family member F [Source:MGI Symbol;Acc:MGI:2442359]	246746
+ENSMUSG00000029084	Cd38	CD38 antigen [Source:MGI Symbol;Acc:MGI:107474]	12494
+ENSMUSG00000017652	Cd40	CD40 antigen [Source:MGI Symbol;Acc:MGI:88336]	21939
+ENSMUSG00000055447	Cd47	CD47 antigen (Rh-related antigen, integrin-associated signal transducer) [Source:MGI Symbol;Acc:MGI:96617]	16423
+ENSMUSG00000079488	Cd47	CD47 antigen (Rh-related antigen, integrin-associated signal transducer) [Source:MGI Symbol;Acc:MGI:96617]	
+ENSMUSG00000032679	Cd59a	CD59a antigen [Source:MGI Symbol;Acc:MGI:109177]	12509
+ENSMUSG00000040592	Cd79b	CD79B antigen [Source:MGI Symbol;Acc:MGI:96431]	15985
+ENSMUSG00000022901	Cd86	CD86 antigen [Source:MGI Symbol;Acc:MGI:101773]	12524
+ENSMUSG00000027435	Cd93	CD93 antigen [Source:MGI Symbol;Acc:MGI:106664]	17064
+ENSMUSG00000021982	Cdadc1	cytidine and dCMP deaminase domain containing 1 [Source:MGI Symbol;Acc:MGI:1919141]	71891
+ENSMUSG00000044201	Cdc25c	cell division cycle 25C [Source:MGI Symbol;Acc:MGI:88350]	12532
+ENSMUSG00000029283	Cdc7	cell division cycle 7 (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1309511]	12545
+ENSMUSG00000032595	Cdhr4	cadherin-related family member 4 [Source:MGI Symbol;Acc:MGI:1916648]	69398
+ENSMUSG00000030878	Cdr2	cerebellar degeneration-related 2 [Source:MGI Symbol;Acc:MGI:1100885]	12585
+ENSMUSG00000056501	Cebpb	CCAAT/enhancer binding protein (C/EBP), beta [Source:MGI Symbol;Acc:MGI:88373]	12608
+ENSMUSG00000024268	Celf4	CUGBP, Elav-like family member 4 [Source:MGI Symbol;Acc:MGI:1932407]	108013
+ENSMUSG00000024989	Cep55	centrosomal protein 55 [Source:MGI Symbol;Acc:MGI:1921357]	74107
+ENSMUSG00000026031	Cflar	CASP8 and FADD-like apoptosis regulator [Source:MGI Symbol;Acc:MGI:1336166]	12633
+ENSMUSG00000041235	Chd7	chromodomain helicase DNA binding protein 7 [Source:MGI Symbol;Acc:MGI:2444748]	320790
+ENSMUSG00000060002	Chpt1	choline phosphotransferase 1 [Source:MGI Symbol;Acc:MGI:2384841]	212862
+ENSMUSG00000030930	Chst15	carbohydrate (N-acetylgalactosamine 4-sulfate 6-O) sulfotransferase 15 [Source:MGI Symbol;Acc:MGI:1924840]	77590
+ENSMUSG00000037493	Cib2	calcium and integrin binding family member 2 [Source:MGI Symbol;Acc:MGI:1929293]	56506
+ENSMUSG00000046841	Ckap4	cytoskeleton-associated protein 4 [Source:MGI Symbol;Acc:MGI:2444926]	216197
+ENSMUSG00000054400	Cklf	chemokine-like factor [Source:MGI Symbol;Acc:MGI:1922708]	75458
+ENSMUSG00000028044	Cks1b	CDC28 protein kinase 1b [Source:MGI Symbol;Acc:MGI:1889208]	54124
+ENSMUSG00000062248	Cks2	CDC28 protein kinase regulatory subunit 2 [Source:MGI Symbol;Acc:MGI:1913447]	66197
+ENSMUSG00000030148	Clec4a2	C-type lectin domain family 4, member a2 [Source:MGI Symbol;Acc:MGI:1349412]	26888
+ENSMUSG00000030147	Clec4b1	C-type lectin domain family 4, member b1 [Source:MGI Symbol;Acc:MGI:1917060]	69810
+ENSMUSG00000030142	Clec4e	C-type lectin domain family 4, member e [Source:MGI Symbol;Acc:MGI:1861232]	56619
+ENSMUSG00000029915	Clec5a	C-type lectin domain family 5, member a [Source:MGI Symbol;Acc:MGI:1345151]	23845
+ENSMUSG00000037242	Clic4	chloride intracellular channel 4 (mitochondrial) [Source:MGI Symbol;Acc:MGI:1352754]	29876
+ENSMUSG00000016756	Cmah	cytidine monophospho-N-acetylneuraminic acid hydroxylase [Source:MGI Symbol;Acc:MGI:103227]	12763
+ENSMUSG00000020638	Cmpk2	cytidine monophosphate (UMP-CMP) kinase 2, mitochondrial [Source:MGI Symbol;Acc:MGI:99830]	22169
+ENSMUSG00000031916	Cog8	component of oligomeric golgi complex 8 [Source:MGI Symbol;Acc:MGI:2142885]	97484
+ENSMUSG00000051355	Commd1	COMM domain containing 1 [Source:MGI Symbol;Acc:MGI:109474]	17846
+ENSMUSG00000030652	Coq7	demethyl-Q 7 [Source:MGI Symbol;Acc:MGI:107207]	12850
+ENSMUSG00000028337	Coro2a	coronin, actin binding protein 2A [Source:MGI Symbol;Acc:MGI:1345966]	107684
+ENSMUSG00000041729	Coro2b	coronin, actin binding protein, 2B [Source:MGI Symbol;Acc:MGI:2444283]	235431
+ENSMUSG00000003617	Cp	ceruloplasmin [Source:MGI Symbol;Acc:MGI:88476]	12870
+ENSMUSG00000038648	Creb3l2	cAMP responsive element binding protein 3-like 2 [Source:MGI Symbol;Acc:MGI:2442695]	208647
+ENSMUSG00000063889	Crem	cAMP responsive element modulator [Source:MGI Symbol;Acc:MGI:88495]	12916
+ENSMUSG00000062783	Csprs	component of Sp100-rs [Source:MGI Symbol;Acc:MGI:1891441]	100503923
+ENSMUSG00000026421	Csrp1	cysteine and glycine-rich protein 1 [Source:MGI Symbol;Acc:MGI:88549]	13007
+ENSMUSG00000068129	Cst7	cystatin F (leukocystatin) [Source:MGI Symbol;Acc:MGI:1298217]	13011
+ENSMUSG00000044258	Ctla2a	cytotoxic T lymphocyte-associated protein 2 alpha [Source:MGI Symbol;Acc:MGI:88554]	13024
+ENSMUSG00000074874	Ctla2b	cytotoxic T lymphocyte-associated protein 2 beta [Source:MGI Symbol;Acc:MGI:88555]	13025
+ENSMUSG00000052336	Cx3cr1	chemokine (C-X3-C) receptor 1 [Source:MGI Symbol;Acc:MGI:1333815]	13051
+ENSMUSG00000034855	Cxcl10	chemokine (C-X-C motif) ligand 10 [Source:MGI Symbol;Acc:MGI:1352450]	15945
+ENSMUSG00000023078	Cxcl13	chemokine (C-X-C motif) ligand 13 [Source:MGI Symbol;Acc:MGI:1888499]	55985
+ENSMUSG00000029417	Cxcl9	chemokine (C-X-C motif) ligand 9 [Source:MGI Symbol;Acc:MGI:1352449]	17329
+ENSMUSG00000045382	Cxcr4	chemokine (C-X-C motif) receptor 4 [Source:MGI Symbol;Acc:MGI:109563]	12767
+ENSMUSG00000037190	Cyb561d2	cytochrome b-561 domain containing 2 [Source:MGI Symbol;Acc:MGI:1929280]	56368
+ENSMUSG00000079057	Cyp4v3	cytochrome P450, family 4, subfamily v, polypeptide 3 [Source:MGI Symbol;Acc:MGI:2142763]	102294
+ENSMUSG00000001467	Cyp51	cytochrome P450, family 51 [Source:MGI Symbol;Acc:MGI:106040]	13121
+ENSMUSG00000052821	Cysltr1	cysteinyl leukotriene receptor 1 [Source:MGI Symbol;Acc:MGI:1926218]	58861
+ENSMUSG00000026832	Cytip	cytohesin 1 interacting protein [Source:MGI Symbol;Acc:MGI:2183535]	227929
+ENSMUSG00000022150	Dab2	disabled 2, mitogen-responsive phosphoprotein [Source:MGI Symbol;Acc:MGI:109175]	13132
+ENSMUSG00000002307	Daxx	Fas death domain-associated protein [Source:MGI Symbol;Acc:MGI:1197015]	13163
+ENSMUSG00000020476	Dbnl	drebrin-like [Source:MGI Symbol;Acc:MGI:700006]	13169
+ENSMUSG00000029366	Dck	deoxycytidine kinase [Source:MGI Symbol;Acc:MGI:102726]	13178
+ENSMUSG00000025408	Ddit3	DNA-damage inducible transcript 3 [Source:MGI Symbol;Acc:MGI:109247]	13198
+ENSMUSG00000053289	Ddx10	DEAD (Asp-Glu-Ala-Asp) box polypeptide 10 [Source:MGI Symbol;Acc:MGI:1924841]	77591
+ENSMUSG00000041645	Ddx24	DEAD (Asp-Glu-Ala-Asp) box polypeptide 24 [Source:MGI Symbol;Acc:MGI:1351337]	27225
+ENSMUSG00000000787	Ddx3x	DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide 3, X-linked [Source:MGI Symbol;Acc:MGI:103064]	13205
+ENSMUSG00000021758	Ddx4	DEAD (Asp-Glu-Ala-Asp) box polypeptide 4 [Source:MGI Symbol;Acc:MGI:102670]	13206
+ENSMUSG00000037921	Ddx60	DEAD (Asp-Glu-Ala-Asp) box polypeptide 60 [Source:MGI Symbol;Acc:MGI:2384570]	234311
+ENSMUSG00000038633	Degs1	degenerative spermatocyte homolog 1 (Drosophila) [Source:MGI Symbol;Acc:MGI:1097711]	13244
+ENSMUSG00000030747	Dgat2	diacylglycerol O-acyltransferase 2 [Source:MGI Symbol;Acc:MGI:1915050]	67800
+ENSMUSG00000017830	Dhx58	DEXH (Asp-Glu-X-His) box polypeptide 58 [Source:MGI Symbol;Acc:MGI:1931560]	80861
+ENSMUSG00000000168	Dlat	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex) [Source:MGI Symbol;Acc:MGI:2385311]	235339
+ENSMUSG00000004069	Dnaja3	DnaJ (Hsp40) homolog, subfamily A, member 3 [Source:MGI Symbol;Acc:MGI:1933786]	83945
+ENSMUSG00000027679	Dnajc19	DnaJ (Hsp40) homolog, subfamily C, member 19 [Source:MGI Symbol;Acc:MGI:1914963]	100503724
+ENSMUSG00000025279	Dnase1l3	deoxyribonuclease 1-like 3 [Source:MGI Symbol;Acc:MGI:1314633]	13421
+ENSMUSG00000026131	Dst	dystonin [Source:MGI Symbol;Acc:MGI:104627]	13518
+ENSMUSG00000004947	Dtx2	deltex 2 homolog (Drosophila) [Source:MGI Symbol;Acc:MGI:1921448]	74198
+ENSMUSG00000024190	Dusp1	dual specificity phosphatase 1 [Source:MGI Symbol;Acc:MGI:105120]	19252
+ENSMUSG00000047205	Dusp18	dual specificity phosphatase 18 [Source:MGI Symbol;Acc:MGI:1922469]	75219
+ENSMUSG00000027203	Dut	deoxyuridine triphosphatase [Source:MGI Symbol;Acc:MGI:1346051]	110074
+ENSMUSG00000018707	Dync1h1	dynein cytoplasmic 1 heavy chain 1 [Source:MGI Symbol;Acc:MGI:103147]	13424
+ENSMUSG00000057469	E2f6	E2F transcription factor 6 [Source:MGI Symbol;Acc:MGI:1354159]	50496
+ENSMUSG00000003206	Ebi3	Epstein-Barr virus induced gene 3 [Source:MGI Symbol;Acc:MGI:1354171]	50498
+ENSMUSG00000036611	Eepd1	endonuclease/exonuclease/phosphatase family domain containing 1 [Source:MGI Symbol;Acc:MGI:1914734]	67484
+ENSMUSG00000035105	Egln3	EGL nine homolog 3 (C. elegans) [Source:MGI Symbol;Acc:MGI:1932288]	112407
+ENSMUSG00000037868	Egr2	early growth response 2 [Source:MGI Symbol;Acc:MGI:95296]	13654
+ENSMUSG00000091337	Eid1	EP300 interacting inhibitor of differentiation 1 [Source:MGI Symbol;Acc:MGI:1889651]	58521
+ENSMUSG00000067194	Eif1ax	eukaryotic translation initiation factor 1A, X-linked [Source:MGI Symbol;Acc:MGI:1913485]	66235
+ENSMUSG00000024079	Eif2ak2	eukaryotic translation initiation factor 2-alpha kinase 2 [Source:MGI Symbol;Acc:MGI:1353449]	19106
+ENSMUSG00000031668	Eif2ak3	eukaryotic translation initiation factor 2 alpha kinase 3 [Source:MGI Symbol;Acc:MGI:1341830]	13666
+ENSMUSG00000028798	Eif3i	eukaryotic translation initiation factor 3, subunit I [Source:MGI Symbol;Acc:MGI:1860763]	54709
+ENSMUSG00000058655	Eif4b	eukaryotic translation initiation factor 4B [Source:MGI Symbol;Acc:MGI:95304]	75705
+ENSMUSG00000006390	Elovl1	elongation of very long chain fatty acids (FEN1/Elo2, SUR4/Elo3, yeast)-like 1 [Source:MGI Symbol;Acc:MGI:1858959]	54325
+ENSMUSG00000041220	Elovl6	ELOVL family member 6, elongation of long chain fatty acids (yeast) [Source:MGI Symbol;Acc:MGI:2156528]	170439
+ENSMUSG00000027167	Elp4	elongation protein 4 homolog (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1925016]	77766
+ENSMUSG00000021728	Emb	embigin [Source:MGI Symbol;Acc:MGI:95321]	13723
+ENSMUSG00000037419	Endod1	endonuclease domain containing 1 [Source:MGI Symbol;Acc:MGI:1919196]	71946
+ENSMUSG00000015337	Endog	endonuclease G [Source:MGI Symbol;Acc:MGI:1261433]	13804
+ENSMUSG00000004267	Eno2	enolase 2, gamma neuronal [Source:MGI Symbol;Acc:MGI:95394]	13807
+ENSMUSG00000023961	Enpp4	ectonucleotide pyrophosphatase/phosphodiesterase 4 [Source:MGI Symbol;Acc:MGI:2682634]	224794
+ENSMUSG00000001036	Epn2	epsin 2 [Source:MGI Symbol;Acc:MGI:1333766]	13855
+ENSMUSG00000022014	Epsti1	epithelial stromal interaction 1 (breast) [Source:MGI Symbol;Acc:MGI:1915168]	108670
+ENSMUSG00000020311	Erlec1	endoplasmic reticulum lectin 1 [Source:MGI Symbol;Acc:MGI:1914003]	66753
+ENSMUSG00000036617	Etl4	enhancer trap locus 4 [Source:MGI Symbol;Acc:MGI:95454]	208618
+ENSMUSG00000030275	Etnk1	ethanolamine kinase 1 [Source:MGI Symbol;Acc:MGI:1922570]	75320
+ENSMUSG00000022895	Ets2	E26 avian leukemia oncogene 2, 3' domain [Source:MGI Symbol;Acc:MGI:95456]	23872
+ENSMUSG00000030199	Etv6	ets variant gene 6 (TEL oncogene) [Source:MGI Symbol;Acc:MGI:109336]	14011
+ENSMUSG00000034321	Exosc1	exosome component 1 [Source:MGI Symbol;Acc:MGI:1913833]	66583
+ENSMUSG00000061731	Ext1	exostoses (multiple) 1 [Source:MGI Symbol;Acc:MGI:894663]	14042
+ENSMUSG00000031444	F10	coagulation factor X [Source:MGI Symbol;Acc:MGI:103107]	14058
+ENSMUSG00000038235	F11r	F11 receptor [Source:MGI Symbol;Acc:MGI:1321398]	16456
+ENSMUSG00000026655	Fam107b	family with sequence similarity 107, member B [Source:MGI Symbol;Acc:MGI:1913790]	66540
+ENSMUSG00000024691	Fam111a	family with sequence similarity 111, member A [Source:MGI Symbol;Acc:MGI:1915508]	107373
+ENSMUSG00000024778	Fas	Fas (TNF receptor superfamily member 6) [Source:MGI Symbol;Acc:MGI:95484]	14102
+ENSMUSG00000025153	Fasn	fatty acid synthase [Source:MGI Symbol;Acc:MGI:95485]	14104
+ENSMUSG00000027086	Fastkd1	FAST kinase domains 1 [Source:MGI Symbol;Acc:MGI:2444596]	320720
+ENSMUSG00000022358	Fbxo32	F-box protein 32 [Source:MGI Symbol;Acc:MGI:1914981]	67731
+ENSMUSG00000059089	Fcgr4	Fc receptor, IgG, low affinity IV [Source:MGI Symbol;Acc:MGI:2179523]	246256
+ENSMUSG00000059994	Fcrl1	Fc receptor-like 1 [Source:MGI Symbol;Acc:MGI:2442862]	229499
+ENSMUSG00000015852	Fcrls	Fc receptor-like S, scavenger receptor [Source:MGI Symbol;Acc:MGI:1933397]	80891
+ENSMUSG00000021273	Fdft1	farnesyl diphosphate farnesyl transferase 1 [Source:MGI Symbol;Acc:MGI:102706]	14137
+ENSMUSG00000024013	Fgd2	FYVE, RhoGEF and PH domain containing 2 [Source:MGI Symbol;Acc:MGI:1347084]	26382
+ENSMUSG00000040242	Fgfr1op2	FGFR1 oncogene partner 2 [Source:MGI Symbol;Acc:MGI:1914779]	67529
+ENSMUSG00000039899	Fgl2	fibrinogen-like protein 2 [Source:MGI Symbol;Acc:MGI:103266]	14190
+ENSMUSG00000016087	Fli1	Friend leukemia integration 1 [Source:MGI Symbol;Acc:MGI:95554]	14247
+ENSMUSG00000020357	Flt4	FMS-like tyrosine kinase 4 [Source:MGI Symbol;Acc:MGI:95561]	14257
+ENSMUSG00000033487	Fndc3a	fibronectin type III domain containing 3A [Source:MGI Symbol;Acc:MGI:1196463]	319448
+ENSMUSG00000052270	Fpr2	formyl peptide receptor 2 [Source:MGI Symbol;Acc:MGI:1278319]	14289
+ENSMUSG00000030795	Fus	fused in sarcoma [Source:MGI Symbol;Acc:MGI:1353633]	233908
+ENSMUSG00000022148	Fyb	FYN binding protein [Source:MGI Symbol;Acc:MGI:1346327]	23880
+ENSMUSG00000031714	Gab1	growth factor receptor bound protein 2-associated protein 1 [Source:MGI Symbol;Acc:MGI:108088]	14388
+ENSMUSG00000030161	Gabarapl1	gamma-aminobutyric acid (GABA) A receptor-associated protein-like 1 [Source:MGI Symbol;Acc:MGI:1914980]	57436
+ENSMUSG00000015312	Gadd45b	growth arrest and DNA-damage-inducible 45 beta [Source:MGI Symbol;Acc:MGI:107776]	17873
+ENSMUSG00000021003	Galc	galactosylceramidase [Source:MGI Symbol;Acc:MGI:95636]	14420
+ENSMUSG00000031608	Galnt7	UDP-N-acetyl-alpha-D-galactosamine: polypeptide N-acetylgalactosaminyltransferase 7 [Source:MGI Symbol;Acc:MGI:1349449]	108150
+ENSMUSG00000028010	Gar1	GAR1 ribonucleoprotein homolog (yeast) [Source:MGI Symbol;Acc:MGI:1930948]	68147
+ENSMUSG00000022962	Gart	phosphoribosylglycinamide formyltransferase [Source:MGI Symbol;Acc:MGI:95654]	14450
+ENSMUSG00000028270	Gbp2	guanylate binding protein 2 [Source:MGI Symbol;Acc:MGI:102772]	14469
+ENSMUSG00000028268	Gbp3	guanylate binding protein 3 [Source:MGI Symbol;Acc:MGI:1926263]	55932
+ENSMUSG00000079362	Gbp6	guanylate binding protein 6 [Source:MGI Symbol;Acc:MGI:2140937]	100702
+ENSMUSG00000040253	Gbp7	guanylate binding protein 7 [Source:MGI Symbol;Acc:MGI:2444421]	229900
+ENSMUSG00000034438	Gbp8	guanylate-binding protein 8 [Source:MGI Symbol;Acc:MGI:1923324]	76074
+ENSMUSG00000037580	Gch1	GTP cyclohydrolase 1 [Source:MGI Symbol;Acc:MGI:95675]	14528
+ENSMUSG00000032350	Gclc	glutamate-cysteine ligase, catalytic subunit [Source:MGI Symbol;Acc:MGI:104990]	14629
+ENSMUSG00000021360	Gcnt2	glucosaminyl (N-acetyl) transferase 2, I-branching enzyme [Source:MGI Symbol;Acc:MGI:1100870]	14538
+ENSMUSG00000034424	Gcsh	glycine cleavage system protein H (aminomethyl carrier) [Source:MGI Symbol;Acc:MGI:1915383]	674321
+ENSMUSG00000030872	Gga2	golgi associated, gamma adaptin ear containing, ARF binding protein 2 [Source:MGI Symbol;Acc:MGI:1921355]	74105
+ENSMUSG00000021302	Ggps1	geranylgeranyl diphosphate synthase 1 [Source:MGI Symbol;Acc:MGI:1341724]	14593
+ENSMUSG00000035778	Ggta1	glycoprotein galactosyltransferase alpha 1, 3 [Source:MGI Symbol;Acc:MGI:95704]	14594
+ENSMUSG00000028480	Glipr2	GLI pathogenesis-related 2 [Source:MGI Symbol;Acc:MGI:1917770]	384009
+ENSMUSG00000062310	Glrp1	glutamine repeat protein 1 [Source:MGI Symbol;Acc:MGI:108038]	14659
+ENSMUSG00000026473	Glul	glutamate-ammonia ligase (glutamine synthetase) [Source:MGI Symbol;Acc:MGI:95739]	14645
+ENSMUSG00000091478	Gm10039	predicted pseudogene 10039 [Source:MGI Symbol;Acc:MGI:3704382]	
+ENSMUSG00000059647	Gm10068	predicted gene 10068 [Source:MGI Symbol;Acc:MGI:3704187]	100862604
+ENSMUSG00000066878	Gm10184	predicted pseudogene 10184 [Source:MGI Symbol;Acc:MGI:3704480]	16647
+ENSMUSG00000048852	Gm12185	predicted gene 12185 [Source:MGI Symbol;Acc:MGI:3652173]	620913
+ENSMUSG00000094017	Gm13160	predicted gene 13160 [Source:MGI Symbol;Acc:MGI:3649984]	
+ENSMUSG00000095362	Gm14325	predicted gene 14325 [Source:MGI Symbol;Acc:MGI:3702875]	329575
+ENSMUSG00000078862	Gm14326	predicted gene 14326 [Source:MGI Symbol;Acc:MGI:3709298]	665211
+ENSMUSG00000078870	Gm14410	predicted gene 14410 [Source:MGI Symbol;Acc:MGI:3709158]	
+ENSMUSG00000083854	Gm15118	predicted gene 15118 [Source:MGI Symbol;Acc:MGI:3709029]	
+ENSMUSG00000085711	Gm15163	predicted gene 15163 [Source:MGI Symbol;Acc:MGI:3642430]	
+ENSMUSG00000071041	Gm15210	predicted gene 15210 [Source:MGI Symbol;Acc:MGI:3705743]	
+ENSMUSG00000082088	Gm15753	predicted gene 15753 [Source:MGI Symbol;Acc:MGI:3783195]	
+ENSMUSG00000059830	Gm16380	predicted pseudogene 16380 [Source:MGI Symbol;Acc:MGI:3643564]	
+ENSMUSG00000093979	Gm2237	predicted gene 2237 [Source:MGI Symbol;Acc:MGI:3780407]	
+ENSMUSG00000095195	Gm3005	predicted gene 3005 [Source:MGI Symbol;Acc:MGI:3781183]	
+ENSMUSG00000079139	Gm4204	predicted gene 4204 [Source:MGI Symbol;Acc:MGI:3782381]	
+ENSMUSG00000090671	Gm5067	predicted gene 5067 [Source:MGI Symbol;Acc:MGI:3644982]	
+ENSMUSG00000048600	Gm5763	predicted pseudogene 5763 [Source:MGI Symbol;Acc:MGI:3647841]	
+ENSMUSG00000070522	Gm6505	predicted pseudogene 6505 [Source:MGI Symbol;Acc:MGI:3648080]	
+ENSMUSG00000035129	Gm6781	predicted gene 6781 [Source:MGI Symbol;Acc:MGI:3644510]	
+ENSMUSG00000044434	Gm9791	predicted pseudogene 9791 [Source:MGI Symbol;Acc:MGI:3642317]	
+ENSMUSG00000062014	Gmfb	glia maturation factor, beta [Source:MGI Symbol;Acc:MGI:1927133]	63985
+ENSMUSG00000000253	Gmpr	guanosine monophosphate reductase [Source:MGI Symbol;Acc:MGI:1913605]	66355
+ENSMUSG00000002326	Gmpr2	guanosine monophosphate reductase 2 [Source:MGI Symbol;Acc:MGI:1917903]	105446
+ENSMUSG00000024697	Gna14	guanine nucleotide binding protein, alpha 14 [Source:MGI Symbol;Acc:MGI:95769]	14675
+ENSMUSG00000034792	Gna15	guanine nucleotide binding protein, alpha 15 [Source:MGI Symbol;Acc:MGI:95770]	14676
+ENSMUSG00000027669	Gnb4	guanine nucleotide binding protein (G protein), beta 4 [Source:MGI Symbol;Acc:MGI:104581]	14696
+ENSMUSG00000028869	Gnl2	guanine nucleotide binding protein-like 2 (nucleolar) [Source:MGI Symbol;Acc:MGI:2385207]	230737
+ENSMUSG00000064037	Gpn1	GPN-loop GTPase 1 [Source:MGI Symbol;Acc:MGI:1921504]	74254
+ENSMUSG00000021306	Gpr137b	G protein-coupled receptor 137B [Source:MGI Symbol;Acc:MGI:1891463]	83924
+ENSMUSG00000041762	Gpr155	G protein-coupled receptor 155 [Source:MGI Symbol;Acc:MGI:1915776]	68526
+ENSMUSG00000063234	Gpr84	G protein-coupled receptor 84 [Source:MGI Symbol;Acc:MGI:1934129]	80910
+ENSMUSG00000027883	Gpsm2	G-protein signalling modulator 2 (AGS3-like, C. elegans) [Source:MGI Symbol;Acc:MGI:1923373]	76123
+ENSMUSG00000001248	Gramd1a	GRAM domain containing 1A [Source:MGI Symbol;Acc:MGI:105490]	52857
+ENSMUSG00000001700	Gramd3	GRAM domain containing 3 [Source:MGI Symbol;Acc:MGI:1914815]	107022
+ENSMUSG00000035637	Grhpr	glyoxylate reductase/hydroxypyruvate reductase [Source:MGI Symbol;Acc:MGI:1923488]	76238
+ENSMUSG00000022564	Grina	glutamate receptor, ionotropic, N-methyl D-aspartate-associated protein 1 (glutamate binding) [Source:MGI Symbol;Acc:MGI:1913418]	66168
+ENSMUSG00000053801	Grwd1	glutamate-rich WD repeat containing 1 [Source:MGI Symbol;Acc:MGI:2141989]	101612
+ENSMUSG00000023952	Gtpbp2	GTP binding protein 2 [Source:MGI Symbol;Acc:MGI:1860138]	56055
+ENSMUSG00000021149	Gtpbp4	GTP binding protein 4 [Source:MGI Symbol;Acc:MGI:1916487]	69237
+ENSMUSG00000073411	H2-D1	histocompatibility 2, D region locus 1 [Source:MGI Symbol;Acc:MGI:95896]	14980
+ENSMUSG00000061232	H2-K1	histocompatibility 2, K1, K region [Source:MGI Symbol;Acc:MGI:95904]	14972
+ENSMUSG00000016206	H2-M3	histocompatibility 2, M region locus 3 [Source:MGI Symbol;Acc:MGI:95915]	14991
+ENSMUSG00000055413	H2-Q5	histocompatibility 2, Q region locus 5 [Source:MGI Symbol;Acc:MGI:95934]	
+ENSMUSG00000073409	H2-Q6	histocompatibility 2, Q region locus 6 [Source:MGI Symbol;Acc:MGI:95935]	110557
+ENSMUSG00000060550	H2-Q7	histocompatibility 2, Q region locus 7 [Source:MGI Symbol;Acc:MGI:95936]	110558
+ENSMUSG00000053835	H2-T24	histocompatibility 2, T region locus 24 [Source:MGI Symbol;Acc:MGI:95958]	15042
+ENSMUSG00000027984	Hadh	hydroxyacyl-Coenzyme A dehydrogenase [Source:MGI Symbol;Acc:MGI:96009]	15107
+ENSMUSG00000024158	Hagh	hydroxyacyl glutathione hydrolase [Source:MGI Symbol;Acc:MGI:95745]	14651
+ENSMUSG00000041840	Haus1	HAUS augmin-like complex, subunit 1 [Source:MGI Symbol;Acc:MGI:2385076]	225745
+ENSMUSG00000020399	Havcr2	hepatitis A virus cellular receptor 2 [Source:MGI Symbol;Acc:MGI:2159682]	171285
+ENSMUSG00000024486	Hbegf	heparin-binding EGF-like growth factor [Source:MGI Symbol;Acc:MGI:96070]	15200
+ENSMUSG00000003283	Hck	hemopoietic cell kinase [Source:MGI Symbol;Acc:MGI:96052]	15162
+ENSMUSG00000027360	Hdc	histidine decarboxylase [Source:MGI Symbol;Acc:MGI:96062]	15186
+ENSMUSG00000000295	Hddc2	HD domain containing 2 [Source:MGI Symbol;Acc:MGI:1916942]	69692
+ENSMUSG00000000976	Heatr6	HEAT repeat containing 6 [Source:MGI Symbol;Acc:MGI:1919790]	217026
+ENSMUSG00000042770	Hebp1	heme binding protein 1 [Source:MGI Symbol;Acc:MGI:1333880]	15199
+ENSMUSG00000027580	Helz2	helicase with zinc finger 2, transcriptional coactivator [Source:MGI Symbol;Acc:MGI:2385169]	229003
+ENSMUSG00000031770	Herpud1	homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1 [Source:MGI Symbol;Acc:MGI:1927406]	64209
+ENSMUSG00000041426	Hibch	3-hydroxyisobutyryl-Coenzyme A hydrolase [Source:MGI Symbol;Acc:MGI:1923792]	227095
+ENSMUSG00000039959	Hip1	huntingtin interacting protein 1 [Source:MGI Symbol;Acc:MGI:1099804]	215114
+ENSMUSG00000054717	Hmgb2	high mobility group box 2 [Source:MGI Symbol;Acc:MGI:96157]	97165
+ENSMUSG00000093930	Hmgcs1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 [Source:MGI Symbol;Acc:MGI:107592]	208715
+ENSMUSG00000066456	Hmgn3	high mobility group nucleosomal binding domain 3 [Source:MGI Symbol;Acc:MGI:2138069]	94353
+ENSMUSG00000026986	Hnmt	histamine N-methyltransferase [Source:MGI Symbol;Acc:MGI:2153181]	140483
+ENSMUSG00000040151	Hs2st1	heparan sulfate 2-O-sulfotransferase 1 [Source:MGI Symbol;Acc:MGI:1346049]	23908
+ENSMUSG00000024507	Hsd17b4	hydroxysteroid (17-beta) dehydrogenase 4 [Source:MGI Symbol;Acc:MGI:105089]	15488
+ENSMUSG00000091971	Hspa1a	heat shock protein 1A [Source:MGI Symbol;Acc:MGI:96244]	193740
+ENSMUSG00000090877	Hspa1b	heat shock protein 1B [Source:MGI Symbol;Acc:MGI:99517]	15511
+ENSMUSG00000007033	Hspa1l	heat shock protein 1-like [Source:MGI Symbol;Acc:MGI:96231]	15482
+ENSMUSG00000067873	Htatsf1	HIV TAT specific factor 1 [Source:MGI Symbol;Acc:MGI:1919709]	72459
+ENSMUSG00000026228	Htr2b	5-hydroxytryptamine (serotonin) receptor 2B [Source:MGI Symbol;Acc:MGI:109323]	15559
+ENSMUSG00000062995	Ica1	islet cell autoantigen 1 [Source:MGI Symbol;Acc:MGI:96391]	15893
+ENSMUSG00000037405	Icam1	intercellular adhesion molecule 1 [Source:MGI Symbol;Acc:MGI:96392]	15894
+ENSMUSG00000000732	Icosl	icos ligand [Source:MGI Symbol;Acc:MGI:1354701]	50723
+ENSMUSG00000025950	Idh1	isocitrate dehydrogenase 1 (NADP+), soluble [Source:MGI Symbol;Acc:MGI:96413]	15926
+ENSMUSG00000058258	Idi1	isopentenyl-diphosphate delta isomerase [Source:MGI Symbol;Acc:MGI:2442264]	319554
+ENSMUSG00000050002	Idnk	idnK gluconokinase homolog (E. coli) [Source:MGI Symbol;Acc:MGI:1922981]	75731
+ENSMUSG00000041025	Iffo2	intermediate filament family orphan 2 [Source:MGI Symbol;Acc:MGI:2140675]	212632
+ENSMUSG00000039997	Ifi203	interferon activated gene 203 [Source:MGI Symbol;Acc:MGI:96428]	100862473
+ENSMUSG00000073489	Ifi204	interferon activated gene 204 [Source:MGI Symbol;Acc:MGI:96429]	15951
+ENSMUSG00000054203	Ifi205	interferon activated gene 205 [Source:MGI Symbol;Acc:MGI:101847]	226695
+ENSMUSG00000079017	Ifi27l2a	interferon, alpha-inducible protein 27 like 2A [Source:MGI Symbol;Acc:MGI:1924183]	76933
+ENSMUSG00000010358	Ifi35	interferon-induced protein 35 [Source:MGI Symbol;Acc:MGI:1917360]	70110
+ENSMUSG00000028037	Ifi44	interferon-induced protein 44 [Source:MGI Symbol;Acc:MGI:2443016]	99899
+ENSMUSG00000078920	Ifi47	interferon gamma inducible protein 47 [Source:MGI Symbol;Acc:MGI:99448]	15953
+ENSMUSG00000045932	Ifit2	interferon-induced protein with tetratricopeptide repeats 2 [Source:MGI Symbol;Acc:MGI:99449]	15958
+ENSMUSG00000025492	Ifitm3	interferon induced transmembrane protein 3 [Source:MGI Symbol;Acc:MGI:1913391]	66141
+ENSMUSG00000020053	Igf1	insulin-like growth factor 1 [Source:MGI Symbol;Acc:MGI:96432]	16000
+ENSMUSG00000033581	Igf2bp2	insulin-like growth factor 2 mRNA binding protein 2 [Source:MGI Symbol;Acc:MGI:1890358]	319765
+ENSMUSG00000078853	Igtp	interferon gamma induced GTPase [Source:MGI Symbol;Acc:MGI:107729]	16145
+ENSMUSG00000042349	Ikbke	inhibitor of kappaB kinase epsilon [Source:MGI Symbol;Acc:MGI:1929612]	56489
+ENSMUSG00000016529	Il10	interleukin 10 [Source:MGI Symbol;Acc:MGI:96537]	16153
+ENSMUSG00000000791	Il12rb1	interleukin 12 receptor, beta 1 [Source:MGI Symbol;Acc:MGI:104579]	16161
+ENSMUSG00000017057	Il13ra1	interleukin 13 receptor, alpha 1 [Source:MGI Symbol;Acc:MGI:105052]	16164
+ENSMUSG00000031712	Il15	interleukin 15 [Source:MGI Symbol;Acc:MGI:103014]	16168
+ENSMUSG00000023206	Il15ra	interleukin 15 receptor, alpha chain [Source:MGI Symbol;Acc:MGI:104644]	16169
+ENSMUSG00000039217	Il18	interleukin 18 [Source:MGI Symbol;Acc:MGI:107936]	16173
+ENSMUSG00000070427	Il18bp	interleukin 18 binding protein [Source:MGI Symbol;Acc:MGI:1333800]	16068
+ENSMUSG00000027398	Il1b	interleukin 1 beta [Source:MGI Symbol;Acc:MGI:96543]	16176
+ENSMUSG00000026981	Il1rn	interleukin 1 receptor antagonist [Source:MGI Symbol;Acc:MGI:96547]	16181
+ENSMUSG00000026770	Il2ra	interleukin 2 receptor, alpha chain [Source:MGI Symbol;Acc:MGI:96549]	16184
+ENSMUSG00000031304	Il2rg	interleukin 2 receptor, gamma chain [Source:MGI Symbol;Acc:MGI:96551]	16186
+ENSMUSG00000030748	Il4ra	interleukin 4 receptor, alpha [Source:MGI Symbol;Acc:MGI:105367]	16190
+ENSMUSG00000062867	Impdh2	inosine 5'-phosphate dehydrogenase 2 [Source:MGI Symbol;Acc:MGI:109367]	100042069
+ENSMUSG00000034336	Ina	internexin neuronal intermediate filament protein, alpha [Source:MGI Symbol;Acc:MGI:96568]	226180
+ENSMUSG00000028894	Inpp5b	inositol polyphosphate-5-phosphatase B [Source:MGI Symbol;Acc:MGI:103257]	16330
+ENSMUSG00000040738	Ints8	integrator complex subunit 8 [Source:MGI Symbol;Acc:MGI:1919906]	72656
+ENSMUSG00000018899	Irf1	interferon regulatory factor 1 [Source:MGI Symbol;Acc:MGI:96590]	16362
+ENSMUSG00000031627	Irf2	interferon regulatory factor 2 [Source:MGI Symbol;Acc:MGI:96591]	16363
+ENSMUSG00000025498	Irf7	interferon regulatory factor 7 [Source:MGI Symbol;Acc:MGI:1859212]	54123
+ENSMUSG00000069874	Irgm2	immunity-related GTPase family M member 2 [Source:MGI Symbol;Acc:MGI:1926262]	54396
+ENSMUSG00000035692	Isg15	ISG15 ubiquitin-like modifier [Source:MGI Symbol;Acc:MGI:1855694]	100038882
+ENSMUSG00000039236	Isg20	interferon-stimulated protein [Source:MGI Symbol;Acc:MGI:1928895]	57444
+ENSMUSG00000031729	Ist1	increased sodium tolerance 1 homolog (yeast) [Source:MGI Symbol;Acc:MGI:1919205]	71955
+ENSMUSG00000027009	Itga4	integrin alpha 4 [Source:MGI Symbol;Acc:MGI:96603]	16401
+ENSMUSG00000038855	Itpkb	inositol 1,4,5-trisphosphate 3-kinase B [Source:MGI Symbol;Acc:MGI:109235]	320404
+ENSMUSG00000030102	Itpr1	inositol 1,4,5-trisphosphate receptor 1 [Source:MGI Symbol;Acc:MGI:96623]	16438
+ENSMUSG00000022957	Itsn1	intersectin 1 (SH3 domain protein 1A) [Source:MGI Symbol;Acc:MGI:1338069]	16443
+ENSMUSG00000023150	Ivns1abp	influenza virus NS1A binding protein [Source:MGI Symbol;Acc:MGI:2152389]	117198
+ENSMUSG00000002799	Jag2	jagged 2 [Source:MGI Symbol;Acc:MGI:1098270]	16450
+ENSMUSG00000024789	Jak2	Janus kinase 2 [Source:MGI Symbol;Acc:MGI:96629]	16452
+ENSMUSG00000052837	Junb	Jun-B oncogene [Source:MGI Symbol;Acc:MGI:96647]	16477
+ENSMUSG00000042099	Kank3	KN motif and ankyrin repeat domains 3 [Source:MGI Symbol;Acc:MGI:1098615]	80880
+ENSMUSG00000000708	Kat2b	K(lysine) acetyltransferase 2B [Source:MGI Symbol;Acc:MGI:1343094]	18519
+ENSMUSG00000053208	Kat2b-ps	K(lysine) acetyltransferase 2B, pseudogene [Source:MGI Symbol;Acc:MGI:3648817]	
+ENSMUSG00000027827	Kcnab1	potassium voltage-gated channel, shaker-related subfamily, beta member 1 [Source:MGI Symbol;Acc:MGI:109155]	16497
+ENSMUSG00000062960	Kdr	kinase insert domain protein receptor [Source:MGI Symbol;Acc:MGI:96683]	16542
+ENSMUSG00000003308	Keap1	kelch-like ECH-associated protein 1 [Source:MGI Symbol;Acc:MGI:1858732]	50868
+ENSMUSG00000032254	Kif23	kinesin family member 23 [Source:MGI Symbol;Acc:MGI:1919069]	71819
+ENSMUSG00000019966	Kitl	kit ligand [Source:MGI Symbol;Acc:MGI:96974]	17311
+ENSMUSG00000003546	Klc4	kinesin light chain 4 [Source:MGI Symbol;Acc:MGI:1922014]	74764
+ENSMUSG00000033863	Klf9	Kruppel-like factor 9 [Source:MGI Symbol;Acc:MGI:1333856]	16601
+ENSMUSG00000030187	Klra2	killer cell lectin-like receptor, subfamily A, member 2 [Source:MGI Symbol;Acc:MGI:101906]	16633
+ENSMUSG00000018362	Kpna2	karyopherin (importin) alpha 2 [Source:MGI Symbol;Acc:MGI:103561]	16647
+ENSMUSG00000021929	Kpna3	karyopherin (importin) alpha 3 [Source:MGI Symbol;Acc:MGI:1100863]	16648
+ENSMUSG00000073775	Kti12	KTI12 homolog, chromatin associated (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1923547]	100087
+ENSMUSG00000055541	Lair1	leukocyte-associated Ig-like receptor 1 [Source:MGI Symbol;Acc:MGI:105492]	52855
+ENSMUSG00000050552	Lamtor4	late endosomal/lysosomal adaptor, MAPK and MTOR activator 4 [Source:MGI Symbol;Acc:MGI:1913346]	66096
+ENSMUSG00000039682	Lap3	leucine aminopeptidase 3 [Source:MGI Symbol;Acc:MGI:1914238]	66988
+ENSMUSG00000037814	Larp1b	La ribonucleoprotein domain family, member 1B [Source:MGI Symbol;Acc:MGI:1914604]	214048
+ENSMUSG00000040751	Lat2	linker for activation of T cells family, member 2 [Source:MGI Symbol;Acc:MGI:1926479]	56743
+ENSMUSG00000074890	Lcmt2	leucine carboxyl methyltransferase 2 [Source:MGI Symbol;Acc:MGI:1353659]	329504
+ENSMUSG00000026822	Lcn2	lipocalin 2 [Source:MGI Symbol;Acc:MGI:96757]	16819
+ENSMUSG00000033880	Lgals3bp	lectin, galactoside-binding, soluble, 3 binding protein [Source:MGI Symbol;Acc:MGI:99554]	19039
+ENSMUSG00000057554	Lgals8	lectin, galactose binding, soluble 8 [Source:MGI Symbol;Acc:MGI:1928481]	56048
+ENSMUSG00000001123	Lgals9	lectin, galactose binding, soluble 9 [Source:MGI Symbol;Acc:MGI:109496]	16859
+ENSMUSG00000027162	Lin7c	lin-7 homolog C (C. elegans) [Source:MGI Symbol;Acc:MGI:1330839]	22343
+ENSMUSG00000030725	Lipt2	lipoyl(octanoyl) transferase 2 (putative) [Source:MGI Symbol;Acc:MGI:1914414]	67164
+ENSMUSG00000028063	Lmna	lamin A [Source:MGI Symbol;Acc:MGI:96794]	16905
+ENSMUSG00000062075	Lmnb2	lamin B2 [Source:MGI Symbol;Acc:MGI:96796]	16907
+ENSMUSG00000038668	Lpar1	lysophosphatidic acid receptor 1 [Source:MGI Symbol;Acc:MGI:108429]	14745
+ENSMUSG00000020593	Lpin1	lipin 1 [Source:MGI Symbol;Acc:MGI:1891340]	14245
+ENSMUSG00000015568	Lpl	lipoprotein lipase [Source:MGI Symbol;Acc:MGI:96820]	16956
+ENSMUSG00000028617	Lrrc42	leucine rich repeat containing 42 [Source:MGI Symbol;Acc:MGI:1925059]	77809
+ENSMUSG00000064307	Lrrc51	leucine rich repeat containing 51 [Source:MGI Symbol;Acc:MGI:1916608]	69358
+ENSMUSG00000054720	Lrrc8c	leucine rich repeat containing 8 family, member C [Source:MGI Symbol;Acc:MGI:2140839]	100604
+ENSMUSG00000029703	Lrwd1	leucine-rich repeats and WD repeat domain containing 1 [Source:MGI Symbol;Acc:MGI:1918985]	71735
+ENSMUSG00000033105	Lss	lanosterol synthase [Source:MGI Symbol;Acc:MGI:1336155]	16987
+ENSMUSG00000073412	Lst1	leukocyte specific transcript 1 [Source:MGI Symbol;Acc:MGI:1096324]	16988
+ENSMUSG00000075602	Ly6a	lymphocyte antigen 6 complex, locus A [Source:MGI Symbol;Acc:MGI:107527]	110454
+ENSMUSG00000021423	Ly86	lymphocyte antigen 86 [Source:MGI Symbol;Acc:MGI:1321404]	17084
+ENSMUSG00000042228	Lyn	Yamaguchi sarcoma viral (v-yes-1) oncogene homolog [Source:MGI Symbol;Acc:MGI:96892]	666513
+ENSMUSG00000020700	Map3k3	mitogen-activated protein kinase kinase kinase 3 [Source:MGI Symbol;Acc:MGI:1346874]	26406
+ENSMUSG00000027479	Mapre1	microtubule-associated protein, RP/EB family, member 1 [Source:MGI Symbol;Acc:MGI:891995]	13589
+ENSMUSG00000022887	Masp1	mannan-binding lectin serine peptidase 1 [Source:MGI Symbol;Acc:MGI:88492]	17174
+ENSMUSG00000053907	Mat2a	methionine adenosyltransferase II, alpha [Source:MGI Symbol;Acc:MGI:2443731]	232087
+ENSMUSG00000002870	Mcm2	minichromosome maintenance deficient 2 mitotin (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:105380]	17216
+ENSMUSG00000041859	Mcm3	minichromosome maintenance deficient 3 (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:101845]	17215
+ENSMUSG00000022673	Mcm4	minichromosome maintenance deficient 4 homolog (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:103199]	17217
+ENSMUSG00000048170	Mcmbp	MCM (minichromosome maintenance deficient) binding protein [Source:MGI Symbol;Acc:MGI:1920977]	210711
+ENSMUSG00000041390	Mdfic	MyoD family inhibitor domain containing [Source:MGI Symbol;Acc:MGI:104611]	16543
+ENSMUSG00000058006	Mdn1	midasin homolog (yeast) [Source:MGI Symbol;Acc:MGI:1926159]	100019
+ENSMUSG00000032418	Me1	malic enzyme 1, NADP(+)-dependent, cytosolic [Source:MGI Symbol;Acc:MGI:97043]	17436
+ENSMUSG00000056476	Med12l	mediator of RNA polymerase II transcription, subunit 12 homolog (yeast)-like [Source:MGI Symbol;Acc:MGI:2139916]	329650
+ENSMUSG00000027210	Meis2	Meis homeobox 2 [Source:MGI Symbol;Acc:MGI:108564]	17536
+ENSMUSG00000035683	Melk	maternal embryonic leucine zipper kinase [Source:MGI Symbol;Acc:MGI:106924]	17279
+ENSMUSG00000039208	Metrnl	meteorin, glial cell differentiation regulator-like [Source:MGI Symbol;Acc:MGI:2384806]	210029
+ENSMUSG00000041439	Mfsd6	major facilitator superfamily domain containing 6 [Source:MGI Symbol;Acc:MGI:1922925]	98682
+ENSMUSG00000026088	Mitd1	MIT, microtubule interacting and transport, domain containing 1 [Source:MGI Symbol;Acc:MGI:1916278]	69028
+ENSMUSG00000048578	Mlec	malectin [Source:MGI Symbol;Acc:MGI:1924015]	109154
+ENSMUSG00000050578	Mmp13	matrix metallopeptidase 13 [Source:MGI Symbol;Acc:MGI:1340026]	17386
+ENSMUSG00000031740	Mmp2	matrix metallopeptidase 2 [Source:MGI Symbol;Acc:MGI:97009]	17390
+ENSMUSG00000026536	Mnda	myeloid cell nuclear differentiation antigen [Source:MGI Symbol;Acc:MGI:3041120]	381308
+ENSMUSG00000090272	Mndal	myeloid nuclear differentiation antigen like [Source:MGI Symbol;Acc:MGI:3780953]	100040462
+ENSMUSG00000002227	Mov10	Moloney leukemia virus 10 [Source:MGI Symbol;Acc:MGI:97054]	17454
+ENSMUSG00000030521	Mphosph10	M-phase phosphoprotein 10 (U3 small nucleolar ribonucleoprotein) [Source:MGI Symbol;Acc:MGI:1915223]	67973
+ENSMUSG00000010406	Mrpl52	mitochondrial ribosomal protein L52 [Source:MGI Symbol;Acc:MGI:1916086]	68836
+ENSMUSG00000040269	Mrps28	mitochondrial ribosomal protein S28 [Source:MGI Symbol;Acc:MGI:1913480]	66230
+ENSMUSG00000056290	Ms4a4b	membrane-spanning 4-domains, subfamily A, member 4B [Source:MGI Symbol;Acc:MGI:1913083]	60361
+ENSMUSG00000024675	Ms4a4c	membrane-spanning 4-domains, subfamily A, member 4C [Source:MGI Symbol;Acc:MGI:1927656]	64380
+ENSMUSG00000024677	Ms4a6b	membrane-spanning 4-domains, subfamily A, member 6B [Source:MGI Symbol;Acc:MGI:1917024]	69774
+ENSMUSG00000079419	Ms4a6c	membrane-spanning 4-domains, subfamily A, member 6C [Source:MGI Symbol;Acc:MGI:2385644]	73656
+ENSMUSG00000014850	Msh3	mutS homolog 3 (E. coli) [Source:MGI Symbol;Acc:MGI:109519]	17686
+ENSMUSG00000005370	Msh6	mutS homolog 6 (E. coli) [Source:MGI Symbol;Acc:MGI:1343961]	17688
+ENSMUSG00000031765	Mt1	metallothionein 1 [Source:MGI Symbol;Acc:MGI:97171]	17748
+ENSMUSG00000062937	Mtap	methylthioadenosine phosphorylase [Source:MGI Symbol;Acc:MGI:1914152]	66902
+ENSMUSG00000004748	Mtfp1	mitochondrial fission process 1 [Source:MGI Symbol;Acc:MGI:1916686]	67900
+ENSMUSG00000029009	Mthfr	5,10-methylenetetrahydrofolate reductase [Source:MGI Symbol;Acc:MGI:106639]	17769
+ENSMUSG00000032342	Mto1	mitochondrial translation optimization 1 homolog (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1915541]	68291
+ENSMUSG00000001156	Mxd1	MAX dimerization protein 1 [Source:MGI Symbol;Acc:MGI:96908]	17119
+ENSMUSG00000037235	Mxd4	Max dimerization protein 4 [Source:MGI Symbol;Acc:MGI:104991]	17122
+ENSMUSG00000025025	Mxi1	Max interacting protein 1 [Source:MGI Symbol;Acc:MGI:97245]	17859
+ENSMUSG00000040463	Mybbp1a	MYB binding protein (P160) 1a [Source:MGI Symbol;Acc:MGI:106181]	18432
+ENSMUSG00000017861	Mybl2	myeloblastosis oncogene-like 2 [Source:MGI Symbol;Acc:MGI:101785]	17865
+ENSMUSG00000028647	Mycbp	c-myc binding protein [Source:MGI Symbol;Acc:MGI:1891750]	56309
+ENSMUSG00000032508	Myd88	myeloid differentiation primary response gene 88 [Source:MGI Symbol;Acc:MGI:108005]	17874
+ENSMUSG00000031652	N4bp1	NEDD4 binding protein 1 [Source:MGI Symbol;Acc:MGI:2136825]	80750
+ENSMUSG00000029413	Naaa	N-acylethanolamine acid amidase [Source:MGI Symbol;Acc:MGI:1914361]	67111
+ENSMUSG00000071203	Naip5	NLR family, apoptosis inhibitory protein 5 [Source:MGI Symbol;Acc:MGI:1298220]	101056614
+ENSMUSG00000078942	Naip6	NLR family, apoptosis inhibitory protein 6 [Source:MGI Symbol;Acc:MGI:1298222]	101056649
+ENSMUSG00000020572	Nampt	nicotinamide phosphoribosyltransferase [Source:MGI Symbol;Acc:MGI:1929865]	59027
+ENSMUSG00000028334	Nans	N-acetylneuraminic acid synthase (sialic acid synthase) [Source:MGI Symbol;Acc:MGI:2149820]	94181
+ENSMUSG00000058799	Nap1l1	nucleosome assembly protein 1-like 1 [Source:MGI Symbol;Acc:MGI:1855693]	53605
+ENSMUSG00000027438	Napb	N-ethylmaleimide sensitive fusion protein attachment protein beta [Source:MGI Symbol;Acc:MGI:104562]	17957
+ENSMUSG00000051147	Nat2	N-acetyltransferase 2 (arylamine N-acetyltransferase) [Source:MGI Symbol;Acc:MGI:109201]	17961
+ENSMUSG00000042029	Ncapg2	non-SMC condensin II complex, subunit G2 [Source:MGI Symbol;Acc:MGI:1923294]	76044
+ENSMUSG00000034906	Ncaph	non-SMC condensin I complex, subunit H [Source:MGI Symbol;Acc:MGI:2444777]	215387
+ENSMUSG00000022774	Ncbp2	nuclear cap binding protein subunit 2 [Source:MGI Symbol;Acc:MGI:1915342]	68092
+ENSMUSG00000028614	Ndc1	NDC1 transmembrane nucleoporin [Source:MGI Symbol;Acc:MGI:1920037]	72787
+ENSMUSG00000054008	Ndst1	N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 1 [Source:MGI Symbol;Acc:MGI:104719]	15531
+ENSMUSG00000028261	Ndufaf4	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, assembly factor 4 [Source:MGI Symbol;Acc:MGI:1915743]	68493
+ENSMUSG00000032216	Nedd4	neural precursor cell expressed, developmentally down-regulated 4 [Source:MGI Symbol;Acc:MGI:97297]	17999
+ENSMUSG00000032340	Neo1	neogenin [Source:MGI Symbol;Acc:MGI:1097159]	18007
+ENSMUSG00000058099	Nfam1	Nfat activating molecule with ITAM motif 1 [Source:MGI Symbol;Acc:MGI:1921289]	74039
+ENSMUSG00000028565	Nfia	nuclear factor I/A [Source:MGI Symbol;Acc:MGI:108056]	18027
+ENSMUSG00000030595	Nfkbib	nuclear factor of kappa light polypeptide gene enhancer in B cells inhibitor, beta [Source:MGI Symbol;Acc:MGI:104752]	18036
+ENSMUSG00000037601	Nme1	NME/NM23 nucleoside diphosphate kinase 1 [Source:MGI Symbol;Acc:MGI:97355]	18102
+ENSMUSG00000026946	Nmi	N-myc (and STAT) interactor [Source:MGI Symbol;Acc:MGI:1928368]	64685
+ENSMUSG00000095567	Noc2l	nucleolar complex associated 2 homolog (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1931051]	57741
+ENSMUSG00000038279	Nop2	NOP2 nucleolar protein [Source:MGI Symbol;Acc:MGI:107891]	110109
+ENSMUSG00000026923	Notch1	notch 1 [Source:MGI Symbol;Acc:MGI:97363]	18128
+ENSMUSG00000060739	Nsa2	NSA2 ribosome biogenesis homolog (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1913883]	636306
+ENSMUSG00000028245	Nsmaf	neutral sphingomyelinase (N-SMase) activation associated factor [Source:MGI Symbol;Acc:MGI:1341864]	18201
+ENSMUSG00000090697	Nsun4	NOL1/NOP2/Sun domain family, member 4 [Source:MGI Symbol;Acc:MGI:1919431]	101056496
+ENSMUSG00000029780	Nt5c3	5'-nucleotidase, cytosolic III [Source:MGI Symbol;Acc:MGI:1927186]	107569
+ENSMUSG00000017176	Nt5c3b	5'-nucleotidase, cytosolic IIIB [Source:MGI Symbol;Acc:MGI:1915356]	68106
+ENSMUSG00000028954	Nub1	negative regulator of ubiquitin-like proteins 1 [Source:MGI Symbol;Acc:MGI:1889001]	53312
+ENSMUSG00000022503	Nubp1	nucleotide binding protein 1 [Source:MGI Symbol;Acc:MGI:1347073]	26425
+ENSMUSG00000030717	Nupr1	nuclear protein transcription regulator 1 [Source:MGI Symbol;Acc:MGI:1891834]	56312
+ENSMUSG00000052776	Oas1a	2'-5' oligoadenylate synthetase 1A [Source:MGI Symbol;Acc:MGI:2180860]	246730
+ENSMUSG00000001166	Oas1c	2'-5' oligoadenylate synthetase 1C [Source:MGI Symbol;Acc:MGI:2149633]	114643
+ENSMUSG00000032690	Oas2	2'-5' oligoadenylate synthetase 2 [Source:MGI Symbol;Acc:MGI:2180852]	246728
+ENSMUSG00000032661	Oas3	2'-5' oligoadenylate synthetase 3 [Source:MGI Symbol;Acc:MGI:2180850]	246727
+ENSMUSG00000041827	Oasl1	2'-5' oligoadenylate synthetase-like 1 [Source:MGI Symbol;Acc:MGI:2180849]	231655
+ENSMUSG00000029561	Oasl2	2'-5' oligoadenylate synthetase-like 2 [Source:MGI Symbol;Acc:MGI:1344390]	23962
+ENSMUSG00000030934	Oat	ornithine aminotransferase [Source:MGI Symbol;Acc:MGI:97394]	18242
+ENSMUSG00000049401	Ogfr	opioid growth factor receptor [Source:MGI Symbol;Acc:MGI:1919325]	72075
+ENSMUSG00000026158	Ogfrl1	opioid growth factor receptor-like 1 [Source:MGI Symbol;Acc:MGI:1917405]	70155
+ENSMUSG00000049686	Orai1	ORAI calcium release-activated calcium modulator 1 [Source:MGI Symbol;Acc:MGI:1925542]	109305
+ENSMUSG00000040550	Otud6b	OTU domain containing 6B [Source:MGI Symbol;Acc:MGI:1919451]	72201
+ENSMUSG00000022186	Oxct1	3-oxoacid CoA transferase 1 [Source:MGI Symbol;Acc:MGI:1914291]	67041
+ENSMUSG00000029470	P2rx4	purinergic receptor P2X, ligand-gated ion channel 4 [Source:MGI Symbol;Acc:MGI:1338859]	18438
+ENSMUSG00000029468	P2rx7	purinergic receptor P2X, ligand-gated ion channel, 7 [Source:MGI Symbol;Acc:MGI:1339957]	18439
+ENSMUSG00000036353	P2ry12	purinergic receptor P2Y, G-protein coupled 12 [Source:MGI Symbol;Acc:MGI:1918089]	70839
+ENSMUSG00000036381	P2ry14	purinergic receptor P2Y, G-protein coupled, 14 [Source:MGI Symbol;Acc:MGI:2155705]	140795
+ENSMUSG00000019916	P4ha1	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), alpha 1 polypeptide [Source:MGI Symbol;Acc:MGI:97463]	18451
+ENSMUSG00000025364	Pa2g4	proliferation-associated 2G4 [Source:MGI Symbol;Acc:MGI:894684]	18813
+ENSMUSG00000030774	Pak1	p21 protein (Cdc42/Rac)-activated kinase 1 [Source:MGI Symbol;Acc:MGI:1339975]	18479
+ENSMUSG00000020092	Pald1	phosphatase domain containing, paladin 1 [Source:MGI Symbol;Acc:MGI:1351623]	27355
+ENSMUSG00000033610	Pank1	pantothenate kinase 1 [Source:MGI Symbol;Acc:MGI:1922985]	75735
+ENSMUSG00000018846	Pank3	pantothenate kinase 3 [Source:MGI Symbol;Acc:MGI:2387464]	211347
+ENSMUSG00000063268	Parp10	poly (ADP-ribose) polymerase family, member 10 [Source:MGI Symbol;Acc:MGI:3712326]	671535
+ENSMUSG00000038507	Parp12	poly (ADP-ribose) polymerase family, member 12 [Source:MGI Symbol;Acc:MGI:2143990]	243771
+ENSMUSG00000022906	Parp9	poly (ADP-ribose) polymerase family, member 9 [Source:MGI Symbol;Acc:MGI:1933117]	80285
+ENSMUSG00000022439	Parvg	parvin, gamma [Source:MGI Symbol;Acc:MGI:2158329]	64099
+ENSMUSG00000032527	Pccb	propionyl Coenzyme A carboxylase, beta polypeptide [Source:MGI Symbol;Acc:MGI:1914154]	66904
+ENSMUSG00000035382	Pcsk7	proprotein convertase subtilisin/kexin type 7 [Source:MGI Symbol;Acc:MGI:107421]	18554
+ENSMUSG00000016498	Pdcd1lg2	programmed cell death 1 ligand 2 [Source:MGI Symbol;Acc:MGI:1930125]	58205
+ENSMUSG00000022489	Pde1b	phosphodiesterase 1B, Ca2+-calmodulin dependent [Source:MGI Symbol;Acc:MGI:97523]	18574
+ENSMUSG00000069094	Pde7a	phosphodiesterase 7A [Source:MGI Symbol;Acc:MGI:1202402]	18583
+ENSMUSG00000019990	Pde7b	phosphodiesterase 7B [Source:MGI Symbol;Acc:MGI:1352752]	29863
+ENSMUSG00000006494	Pdk1	pyruvate dehydrogenase kinase, isoenzyme 1 [Source:MGI Symbol;Acc:MGI:1926119]	228026
+ENSMUSG00000028716	Pdzk1ip1	PDZK1 interacting protein 1 [Source:MGI Symbol;Acc:MGI:1914432]	67182
+ENSMUSG00000002265	Peg3	paternally expressed 3 [Source:MGI Symbol;Acc:MGI:104748]	18616
+ENSMUSG00000020134	Peli1	pellino 1 [Source:MGI Symbol;Acc:MGI:1914495]	67245
+ENSMUSG00000026773	Pfkfb3	6-phosphofructo-2-kinase/fructose-2,6-biphosphatase 3 [Source:MGI Symbol;Acc:MGI:2181202]	170768
+ENSMUSG00000030990	Pgap2	post-GPI attachment to proteins 2 [Source:MGI Symbol;Acc:MGI:2385286]	233575
+ENSMUSG00000043445	Pgp	phosphoglycolate phosphatase [Source:MGI Symbol;Acc:MGI:1914328]	67078
+ENSMUSG00000017715	Pgs1	phosphatidylglycerophosphate synthase 1 [Source:MGI Symbol;Acc:MGI:1921701]	74451
+ENSMUSG00000020359	Phykpl	5-phosphohydroxy-L-lysine phospholyase [Source:MGI Symbol;Acc:MGI:1920197]	72947
+ENSMUSG00000025178	Pi4k2a	phosphatidylinositol 4-kinase type 2 alpha [Source:MGI Symbol;Acc:MGI:1934031]	84095
+ENSMUSG00000029186	Pi4k2b	phosphatidylinositol 4-kinase type 2 beta [Source:MGI Symbol;Acc:MGI:1914323]	67073
+ENSMUSG00000024014	Pim1	proviral integration site 1 [Source:MGI Symbol;Acc:MGI:97584]	18712
+ENSMUSG00000021193	Pitrm1	pitrilysin metallepetidase 1 [Source:MGI Symbol;Acc:MGI:1916867]	69617
+ENSMUSG00000034462	Pkd2	polycystic kidney disease 2 [Source:MGI Symbol;Acc:MGI:1099818]	18764
+ENSMUSG00000019876	Pkib	protein kinase inhibitor beta, cAMP dependent, testis specific [Source:MGI Symbol;Acc:MGI:101937]	18768
+ENSMUSG00000026991	Pkp4	plakophilin 4 [Source:MGI Symbol;Acc:MGI:109281]	227937
+ENSMUSG00000002847	Pla1a	phospholipase A1 member A [Source:MGI Symbol;Acc:MGI:1934677]	85031
+ENSMUSG00000042632	Pla2g6	phospholipase A2, group VI [Source:MGI Symbol;Acc:MGI:1859152]	53357
+ENSMUSG00000019817	Plagl1	pleiomorphic adenoma gene-like 1 [Source:MGI Symbol;Acc:MGI:1100874]	22634
+ENSMUSG00000038910	Plcl2	phospholipase C-like 2 [Source:MGI Symbol;Acc:MGI:1352756]	224860
+ENSMUSG00000040428	Plekha4	pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 4 [Source:MGI Symbol;Acc:MGI:1916467]	69217
+ENSMUSG00000016495	Plgrkt	plasminogen receptor, C-terminal lysine transmembrane protein [Source:MGI Symbol;Acc:MGI:1915009]	67759
+ENSMUSG00000030867	Plk1	polo-like kinase 1 [Source:MGI Symbol;Acc:MGI:97621]	18817
+ENSMUSG00000021701	Plk2	polo-like kinase 2 [Source:MGI Symbol;Acc:MGI:1099790]	20620
+ENSMUSG00000025758	Plk4	polo-like kinase 4 [Source:MGI Symbol;Acc:MGI:101783]	20873
+ENSMUSG00000004846	Plod3	procollagen-lysine, 2-oxoglutarate 5-dioxygenase 3 [Source:MGI Symbol;Acc:MGI:1347008]	26433
+ENSMUSG00000036986	Pml	promyelocytic leukemia [Source:MGI Symbol;Acc:MGI:104662]	18854
+ENSMUSG00000021871	Pnp	purine-nucleoside phosphorylase [Source:MGI Symbol;Acc:MGI:97365]	18950
+ENSMUSG00000068417	Pnp2	purine-nucleoside phosphorylase 2 [Source:MGI Symbol;Acc:MGI:3712328]	667034
+ENSMUSG00000020464	Pnpt1	polyribonucleotide nucleotidyltransferase 1 [Source:MGI Symbol;Acc:MGI:1918951]	100505160
+ENSMUSG00000031536	Polb	polymerase (DNA directed), beta [Source:MGI Symbol;Acc:MGI:97740]	18970
+ENSMUSG00000049553	Polr1a	polymerase (RNA) I polypeptide A [Source:MGI Symbol;Acc:MGI:1096397]	20019
+ENSMUSG00000028318	Polr1e	polymerase (RNA) I polypeptide E [Source:MGI Symbol;Acc:MGI:1929022]	64424
+ENSMUSG00000020329	Polrmt	polymerase (RNA) mitochondrial (DNA directed) [Source:MGI Symbol;Acc:MGI:1915843]	216151
+ENSMUSG00000090125	Pou3f1	POU domain, class 3, transcription factor 1 [Source:MGI Symbol;Acc:MGI:101896]	18991
+ENSMUSG00000020089	Ppa1	pyrophosphatase (inorganic) 1 [Source:MGI Symbol;Acc:MGI:97831]	67895
+ENSMUSG00000004100	Ppan	peter pan homolog (Drosophila) [Source:MGI Symbol;Acc:MGI:2178445]	235036
+ENSMUSG00000029246	Ppat	phosphoribosyl pyrophosphate amidotransferase [Source:MGI Symbol;Acc:MGI:2387203]	231327
+ENSMUSG00000046062	Ppp1r15b	protein phosphatase 1, regulatory (inhibitor) subunit 15b [Source:MGI Symbol;Acc:MGI:2444211]	108954
+ENSMUSG00000025395	Prim1	DNA primase, p49 subunit [Source:MGI Symbol;Acc:MGI:97757]	19075
+ENSMUSG00000028944	Prkag2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit [Source:MGI Symbol;Acc:MGI:1336153]	108099
+ENSMUSG00000052889	Prkcb	protein kinase C, beta [Source:MGI Symbol;Acc:MGI:97596]	18751
+ENSMUSG00000035725	Prkx	protein kinase, X-linked [Source:MGI Symbol;Acc:MGI:1309999]	19108
+ENSMUSG00000022501	Prm1	protamine 1 [Source:MGI Symbol;Acc:MGI:97765]	19118
+ENSMUSG00000030505	Prmt3	protein arginine N-methyltransferase 3 [Source:MGI Symbol;Acc:MGI:1919224]	71974
+ENSMUSG00000063800	Prpf38a	PRP38 pre-mRNA processing factor 38 (yeast) domain containing A [Source:MGI Symbol;Acc:MGI:1916962]	230596
+ENSMUSG00000024640	Psat1	phosphoserine aminotransferase 1 [Source:MGI Symbol;Acc:MGI:2183441]	100047252
+ENSMUSG00000031897	Psmb10	proteasome (prosome, macropain) subunit, beta type 10 [Source:MGI Symbol;Acc:MGI:1096380]	19171
+ENSMUSG00000024338	Psmb8	proteasome (prosome, macropain) subunit, beta type 8 (large multifunctional peptidase 7) [Source:MGI Symbol;Acc:MGI:1346527]	16913
+ENSMUSG00000096727	Psmb9	proteasome (prosome, macropain) subunit, beta type 9 (large multifunctional peptidase 2) [Source:MGI Symbol;Acc:MGI:1346526]	16912
+ENSMUSG00000021832	Psmc6	proteasome (prosome, macropain) 26S subunit, ATPase, 6 [Source:MGI Symbol;Acc:MGI:1914339]	67089
+ENSMUSG00000022216	Psme1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha) [Source:MGI Symbol;Acc:MGI:1096367]	19186
+ENSMUSG00000032869	Psmf1	proteasome (prosome, macropain) inhibitor subunit 1 [Source:MGI Symbol;Acc:MGI:1346072]	228769
+ENSMUSG00000050737	Ptges	prostaglandin E synthase [Source:MGI Symbol;Acc:MGI:1927593]	64292
+ENSMUSG00000032487	Ptgs2	prostaglandin-endoperoxide synthase 2 [Source:MGI Symbol;Acc:MGI:97798]	19225
+ENSMUSG00000020415	Pttg1	pituitary tumor-transforming gene 1 [Source:MGI Symbol;Acc:MGI:1353578]	30939
+ENSMUSG00000094483	Purb	purine rich element binding protein B [Source:MGI Symbol;Acc:MGI:1338779]	19291
+ENSMUSG00000029507	Pus1	pseudouridine synthase 1 [Source:MGI Symbol;Acc:MGI:1929237]	56361
+ENSMUSG00000032103	Pus3	pseudouridine synthase 3 [Source:MGI Symbol;Acc:MGI:1914299]	67049
+ENSMUSG00000019863	Qrsl1	glutaminyl-tRNA synthase (glutamine-hydrolyzing)-like 1 [Source:MGI Symbol;Acc:MGI:1923813]	76563
+ENSMUSG00000031504	Rab20	RAB20, member RAS oncogene family [Source:MGI Symbol;Acc:MGI:102789]	19332
+ENSMUSG00000019066	Rab3d	RAB3D, member RAS oncogene family [Source:MGI Symbol;Acc:MGI:97844]	19340
+ENSMUSG00000024663	Rab3il1	RAB3A interacting protein (rabin3)-like 1 [Source:MGI Symbol;Acc:MGI:1922010]	74760
+ENSMUSG00000019478	Rab4a	RAB4A, member RAS oncogene family [Source:MGI Symbol;Acc:MGI:105069]	19341
+ENSMUSG00000032549	Rab6b	RAB6B, member RAS oncogene family [Source:MGI Symbol;Acc:MGI:107283]	270192
+ENSMUSG00000050029	Rap2c	RAP2C, member of RAS oncogene family [Source:MGI Symbol;Acc:MGI:1919315]	72065
+ENSMUSG00000027641	Rbl1	retinoblastoma-like 1 (p107) [Source:MGI Symbol;Acc:MGI:103300]	19650
+ENSMUSG00000006456	Rbm14	RNA binding motif protein 14 [Source:MGI Symbol;Acc:MGI:1929092]	56275
+ENSMUSG00000010608	Rbm25	RNA binding motif protein 25 [Source:MGI Symbol;Acc:MGI:1914289]	67039
+ENSMUSG00000022106	Rcbtb2	regulator of chromosome condensation (RCC1) and BTB (POZ) domain containing protein 2 [Source:MGI Symbol;Acc:MGI:1917200]	105670
+ENSMUSG00000025921	Rdh10	retinol dehydrogenase 10 (all-trans) [Source:MGI Symbol;Acc:MGI:1924238]	98711
+ENSMUSG00000008435	Rdh13	retinol dehydrogenase 13 (all-trans and 9-cis) [Source:MGI Symbol;Acc:MGI:1918732]	108841
+ENSMUSG00000029191	Rfc1	replication factor C (activator 1) 1 [Source:MGI Symbol;Acc:MGI:97891]	19687
+ENSMUSG00000033970	Rfc3	replication factor C (activator 1) 3 [Source:MGI Symbol;Acc:MGI:1916513]	69263
+ENSMUSG00000020696	Rffl	ring finger and FYVE like domain containing protein [Source:MGI Symbol;Acc:MGI:1914588]	67338
+ENSMUSG00000026358	Rgs1	regulator of G-protein signaling 1 [Source:MGI Symbol;Acc:MGI:1354694]	50778
+ENSMUSG00000026360	Rgs2	regulator of G-protein signaling 2 [Source:MGI Symbol;Acc:MGI:1098271]	19735
+ENSMUSG00000059810	Rgs3	regulator of G-protein signaling 3 [Source:MGI Symbol;Acc:MGI:1354734]	50780
+ENSMUSG00000029204	Rhoh	ras homolog gene family, member H [Source:MGI Symbol;Acc:MGI:1921984]	74734
+ENSMUSG00000017686	Rhot1	ras homolog gene family, member T1 [Source:MGI Symbol;Acc:MGI:1926078]	59040
+ENSMUSG00000039960	Rhou	ras homolog gene family, member U [Source:MGI Symbol;Acc:MGI:1916831]	69581
+ENSMUSG00000034226	Rhov	ras homolog gene family, member V [Source:MGI Symbol;Acc:MGI:2444227]	228543
+ENSMUSG00000029392	Rilpl1	Rab interacting lysosomal protein-like 1 [Source:MGI Symbol;Acc:MGI:1922945]	75695
+ENSMUSG00000037386	Rims2	regulating synaptic membrane exocytosis 2 [Source:MGI Symbol;Acc:MGI:2152972]	116838
+ENSMUSG00000001768	Rin2	Ras and Rab interactor 2 [Source:MGI Symbol;Acc:MGI:1921280]	74030
+ENSMUSG00000070730	Rmdn3	regulator of microtubule dynamics 3 [Source:MGI Symbol;Acc:MGI:1915059]	67809
+ENSMUSG00000006418	Rnf114	ring finger protein 114 [Source:MGI Symbol;Acc:MGI:1933159]	81018
+ENSMUSG00000020707	Rnf135	ring finger protein 135 [Source:MGI Symbol;Acc:MGI:1919206]	71956
+ENSMUSG00000028793	Rnf19b	ring finger protein 19B [Source:MGI Symbol;Acc:MGI:1922484]	75234
+ENSMUSG00000028309	Rnf20	ring finger protein 20 [Source:MGI Symbol;Acc:MGI:1925927]	109331
+ENSMUSG00000029110	Rnf4	ring finger protein 4 [Source:MGI Symbol;Acc:MGI:1201691]	19822
+ENSMUSG00000090083	Rnf8	ring finger protein 8 [Source:MGI Symbol;Acc:MGI:1929069]	58230
+ENSMUSG00000028274	Rngtt	RNA guanylyltransferase and 5'-phosphatase [Source:MGI Symbol;Acc:MGI:1329041]	24018
+ENSMUSG00000025794	Rpl14	ribosomal protein L14 [Source:MGI Symbol;Acc:MGI:1914365]	67115
+ENSMUSG00000058600	Rpl30	ribosomal protein L30 [Source:MGI Symbol;Acc:MGI:98037]	664969
+ENSMUSG00000093674	Rpl41	ribosomal protein L41 [Source:MGI Symbol;Acc:MGI:1915195]	67945
+ENSMUSG00000058558	Rpl5	ribosomal protein L5 [Source:MGI Symbol;Acc:MGI:102854]	100503670
+ENSMUSG00000028234	Rps20	ribosomal protein S20 [Source:MGI Symbol;Acc:MGI:1914677]	67427
+ENSMUSG00000031880	Rrad	Ras-related associated with diabetes [Source:MGI Symbol;Acc:MGI:1930943]	56437
+ENSMUSG00000038387	Rras	Harvey rat sarcoma oncogene, subgroup R [Source:MGI Symbol;Acc:MGI:98179]	20130
+ENSMUSG00000020649	Rrm2	ribonucleotide reductase M2 [Source:MGI Symbol;Acc:MGI:98181]	20135
+ENSMUSG00000001305	Rrp15	ribosomal RNA processing 15 homolog (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1914473]	67223
+ENSMUSG00000058392	Rrp1b	ribosomal RNA processing 1 homolog B (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1919712]	72462
+ENSMUSG00000061024	Rrs1	RRS1 ribosome biogenesis regulator homolog (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1929721]	59014
+ENSMUSG00000020641	Rsad2	radical S-adenosyl methionine domain containing 2 [Source:MGI Symbol;Acc:MGI:1929628]	58185
+ENSMUSG00000033355	Rtp4	receptor transporter protein 4 [Source:MGI Symbol;Acc:MGI:1915025]	67775
+ENSMUSG00000001020	S100a4	S100 calcium binding protein A4 [Source:MGI Symbol;Acc:MGI:1330282]	20198
+ENSMUSG00000040026	Saa3	serum amyloid A 3 [Source:MGI Symbol;Acc:MGI:98223]	20210
+ENSMUSG00000021838	Samd4	sterile alpha motif domain containing 4 [Source:MGI Symbol;Acc:MGI:1921730]	74480
+ENSMUSG00000027639	Samhd1	SAM domain and HD domain, 1 [Source:MGI Symbol;Acc:MGI:1927468]	56045
+ENSMUSG00000027959	Sass6	spindle assembly 6 homolog (C. elegans) [Source:MGI Symbol;Acc:MGI:1920026]	72776
+ENSMUSG00000023927	Satb1	special AT-rich sequence binding protein 1 [Source:MGI Symbol;Acc:MGI:105084]	20230
+ENSMUSG00000042978	Sbk1	SH3-binding kinase 1 [Source:MGI Symbol;Acc:MGI:2135937]	104175
+ENSMUSG00000038095	Sbno1	sno, strawberry notch homolog 1 (Drosophila) [Source:MGI Symbol;Acc:MGI:2384298]	243272
+ENSMUSG00000040188	Scamp2	secretory carrier membrane protein 2 [Source:MGI Symbol;Acc:MGI:1346518]	24044
+ENSMUSG00000025203	Scd2	stearoyl-Coenzyme A desaturase 2 [Source:MGI Symbol;Acc:MGI:98240]	20250
+ENSMUSG00000050711	Scg2	secretogranin II [Source:MGI Symbol;Acc:MGI:103033]	20254
+ENSMUSG00000025743	Sdc3	syndecan 3 [Source:MGI Symbol;Acc:MGI:1349163]	20970
+ENSMUSG00000074211	Sdhaf1	succinate dehydrogenase complex assembly factor 1 [Source:MGI Symbol;Acc:MGI:1915582]	68332
+ENSMUSG00000039234	Sec24d	Sec24 related gene family, member D (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1916858]	69608
+ENSMUSG00000026581	Sell	selectin, lymphocyte [Source:MGI Symbol;Acc:MGI:98279]	20343
+ENSMUSG00000048163	Selplg	selectin, platelet (p-selectin) ligand [Source:MGI Symbol;Acc:MGI:106689]	20345
+ENSMUSG00000021643	Serf1	small EDRK-rich factor 1 [Source:MGI Symbol;Acc:MGI:1337114]	20365
+ENSMUSG00000041481	Serpina3g	serine (or cysteine) peptidase inhibitor, clade A, member 3G [Source:MGI Symbol;Acc:MGI:105046]	
+ENSMUSG00000037411	Serpine1	serine (or cysteine) peptidase inhibitor, clade E, member 1 [Source:MGI Symbol;Acc:MGI:97608]	18787
+ENSMUSG00000023224	Serping1	serine (or cysteine) peptidase inhibitor, clade G, member 1 [Source:MGI Symbol;Acc:MGI:894696]	12258
+ENSMUSG00000055200	Sertad3	SERTA domain containing 3 [Source:MGI Symbol;Acc:MGI:2180697]	170742
+ENSMUSG00000038332	Sesn1	sestrin 1 [Source:MGI Symbol;Acc:MGI:2155278]	140742
+ENSMUSG00000029156	Sgcb	sarcoglycan, beta (dystrophin-associated glycoprotein) [Source:MGI Symbol;Acc:MGI:1346523]	24051
+ENSMUSG00000025915	Sgk3	serum/glucocorticoid regulated kinase 3 [Source:MGI Symbol;Acc:MGI:2182368]	170755
+ENSMUSG00000040451	Sgms1	sphingomyelin synthase 1 [Source:MGI Symbol;Acc:MGI:2444110]	208449
+ENSMUSG00000025647	Shisa5	shisa homolog 5 (Xenopus laevis) [Source:MGI Symbol;Acc:MGI:1915044]	66940
+ENSMUSG00000025403	Shmt2	serine hydroxymethyltransferase 2 (mitochondrial) [Source:MGI Symbol;Acc:MGI:1277989]	108037
+ENSMUSG00000027322	Siglec1	sialic acid binding Ig-like lectin 1, sialoadhesin [Source:MGI Symbol;Acc:MGI:99668]	20612
+ENSMUSG00000030474	Siglece	sialic acid binding Ig-like lectin E [Source:MGI Symbol;Acc:MGI:1932475]	83382
+ENSMUSG00000043183	Simc1	SUMO-interacting motifs containing 1 [Source:MGI Symbol;Acc:MGI:2442599]	319719
+ENSMUSG00000037902	Sirpa	signal-regulatory protein alpha [Source:MGI Symbol;Acc:MGI:108563]	19261
+ENSMUSG00000064326	Siva1	SIVA1, apoptosis-inducing factor [Source:MGI Symbol;Acc:MGI:1353606]	30954
+ENSMUSG00000054115	Skp2	S-phase kinase-associated protein 2 (p45) [Source:MGI Symbol;Acc:MGI:1351663]	27401
+ENSMUSG00000038179	Slamf7	SLAM family member 7 [Source:MGI Symbol;Acc:MGI:1922595]	75345
+ENSMUSG00000053318	Slamf8	SLAM family member 8 [Source:MGI Symbol;Acc:MGI:1921998]	74748
+ENSMUSG00000023030	Slc11a2	solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2 [Source:MGI Symbol;Acc:MGI:1345279]	18174
+ENSMUSG00000024597	Slc12a2	solute carrier family 12, member 2 [Source:MGI Symbol;Acc:MGI:101924]	20496
+ENSMUSG00000017756	Slc12a7	solute carrier family 12, member 7 [Source:MGI Symbol;Acc:MGI:1342283]	20499
+ENSMUSG00000024737	Slc15a3	solute carrier family 15, member 3 [Source:MGI Symbol;Acc:MGI:1929691]	65221
+ENSMUSG00000029416	Slc15a4	solute carrier family 15, member 4 [Source:MGI Symbol;Acc:MGI:2140796]	100561
+ENSMUSG00000001918	Slc1a5	solute carrier family 1 (neutral amino acid transporter), member 5 [Source:MGI Symbol;Acc:MGI:105305]	20514
+ENSMUSG00000025792	Slc25a10	solute carrier family 25 (mitochondrial carrier, dicarboxylate transporter), member 10 [Source:MGI Symbol;Acc:MGI:1353497]	27376
+ENSMUSG00000019082	Slc25a22	solute carrier family 25 (mitochondrial carrier, glutamate), member 22 [Source:MGI Symbol;Acc:MGI:1915517]	68267
+ENSMUSG00000040414	Slc25a28	solute carrier family 25, member 28 [Source:MGI Symbol;Acc:MGI:2180509]	246696
+ENSMUSG00000028982	Slc25a33	solute carrier family 25, member 33 [Source:MGI Symbol;Acc:MGI:1917806]	70556
+ENSMUSG00000023942	Slc29a1	solute carrier family 29 (nucleoside transporters), member 1 [Source:MGI Symbol;Acc:MGI:1927073]	63959
+ENSMUSG00000020100	Slc29a3	solute carrier family 29 (nucleoside transporters), member 3 [Source:MGI Symbol;Acc:MGI:1918529]	71279
+ENSMUSG00000028645	Slc2a1	solute carrier family 2 (facilitated glucose transporter), member 1 [Source:MGI Symbol;Acc:MGI:95755]	20525
+ENSMUSG00000066152	Slc31a2	solute carrier family 31, member 2 [Source:MGI Symbol;Acc:MGI:1333844]	20530
+ENSMUSG00000032122	Slc37a2	solute carrier family 37 (glycerol-3-phosphate transporter), member 2 [Source:MGI Symbol;Acc:MGI:1929693]	56857
+ENSMUSG00000025993	Slc40a1	solute carrier family 40 (iron-regulated transporter), member 1 [Source:MGI Symbol;Acc:MGI:1315204]	53945
+ENSMUSG00000081534	Slc48a1	solute carrier family 48 (heme transporter), member 1 [Source:MGI Symbol;Acc:MGI:1914989]	67739
+ENSMUSG00000025790	Slco3a1	solute carrier organic anion transporter family, member 3a1 [Source:MGI Symbol;Acc:MGI:1351867]	108116
+ENSMUSG00000078763	Slfn1	schlafen 1 [Source:MGI Symbol;Acc:MGI:1313259]	20555
+ENSMUSG00000072620	Slfn2	schlafen 2 [Source:MGI Symbol;Acc:MGI:1313258]	20556
+ENSMUSG00000018986	Slfn3	schlafen 3 [Source:MGI Symbol;Acc:MGI:1329005]	20557
+ENSMUSG00000000204	Slfn4	schlafen 4 [Source:MGI Symbol;Acc:MGI:1329010]	20558
+ENSMUSG00000035208	Slfn8	schlafen 8 [Source:MGI Symbol;Acc:MGI:2672859]	276950
+ENSMUSG00000031715	Smarca5	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily a, member 5 [Source:MGI Symbol;Acc:MGI:1935129]	93762
+ENSMUSG00000032481	Smarcc1	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 1 [Source:MGI Symbol;Acc:MGI:1203524]	20588
+ENSMUSG00000041133	Smc1a	structural maintenance of chromosomes 1A [Source:MGI Symbol;Acc:MGI:1344345]	24061
+ENSMUSG00000020608	Smc6	structural maintenance of chromosomes 6 [Source:MGI Symbol;Acc:MGI:1914491]	67241
+ENSMUSG00000001761	Smo	smoothened homolog (Drosophila) [Source:MGI Symbol;Acc:MGI:108075]	319757
+ENSMUSG00000028885	Smpdl3b	sphingomyelin phosphodiesterase, acid-like 3B [Source:MGI Symbol;Acc:MGI:1916022]	100340
+ENSMUSG00000033706	Smyd5	SET and MYND domain containing 5 [Source:MGI Symbol;Acc:MGI:108048]	232187
+ENSMUSG00000033419	Snap91	synaptosomal-associated protein 91 [Source:MGI Symbol;Acc:MGI:109132]	20616
+ENSMUSG00000077426	SNORA66	Small nucleolar RNA SNORA66  [Source:RFAM;Acc:RF00155]	
+ENSMUSG00000065899	SNORA72	Small nucleolar RNA SNORA72  [Source:RFAM;Acc:RF00139]	
+ENSMUSG00000089571	snoU105B	Small nucleolar RNA U105B  [Source:RFAM;Acc:RF01173]	
+ENSMUSG00000027488	Snta1	syntrophin, acidic 1 [Source:MGI Symbol;Acc:MGI:101772]	20648
+ENSMUSG00000002365	Snx9	sorting nexin 9 [Source:MGI Symbol;Acc:MGI:1913866]	66616
+ENSMUSG00000023045	Soat2	sterol O-acyltransferase 2 [Source:MGI Symbol;Acc:MGI:1332226]	223920
+ENSMUSG00000038037	Socs1	suppressor of cytokine signaling 1 [Source:MGI Symbol;Acc:MGI:1354910]	12703
+ENSMUSG00000027227	Sord	sorbitol dehydrogenase [Source:MGI Symbol;Acc:MGI:98266]	20322
+ENSMUSG00000024241	Sos1	son of sevenless homolog 1 (Drosophila) [Source:MGI Symbol;Acc:MGI:98354]	20662
+ENSMUSG00000076431	Sox4	SRY-box containing gene 4 [Source:MGI Symbol;Acc:MGI:98366]	20677
+ENSMUSG00000026222	Sp100	nuclear antigen Sp100 [Source:MGI Symbol;Acc:MGI:109561]	20684
+ENSMUSG00000070034	Sp110	Sp110 nuclear body protein [Source:MGI Symbol;Acc:MGI:1923364]	109032
+ENSMUSG00000002055	Spag5	sperm associated antigen 5 [Source:MGI Symbol;Acc:MGI:1927470]	54141
+ENSMUSG00000034401	Spata6	spermatogenesis associated 6 [Source:MGI Symbol;Acc:MGI:1915196]	67946
+ENSMUSG00000027366	Sppl2a	signal peptide peptidase like 2A [Source:MGI Symbol;Acc:MGI:1913802]	66552
+ENSMUSG00000039911	Spsb1	splA/ryanodine receptor domain and SOCS box containing 1 [Source:MGI Symbol;Acc:MGI:1921896]	74646
+ENSMUSG00000044408	Sptssa	serine palmitoyltransferase, small subunit A [Source:MGI Symbol;Acc:MGI:1913399]	104725
+ENSMUSG00000022351	Sqle	squalene epoxidase [Source:MGI Symbol;Acc:MGI:109296]	20775
+ENSMUSG00000006442	Srm	spermidine synthase [Source:MGI Symbol;Acc:MGI:102690]	20810
+ENSMUSG00000018379	Srsf1	serine/arginine-rich splicing factor 1 [Source:MGI Symbol;Acc:MGI:98283]	110809
+ENSMUSG00000021427	Ssr1	signal sequence receptor, alpha [Source:MGI Symbol;Acc:MGI:105082]	107513
+ENSMUSG00000056091	St3gal5	ST3 beta-galactoside alpha-2,3-sialyltransferase 5 [Source:MGI Symbol;Acc:MGI:1339963]	20454
+ENSMUSG00000079442	St6galnac4	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 4 [Source:MGI Symbol;Acc:MGI:1341894]	20448
+ENSMUSG00000018167	Stard3	START domain containing 3 [Source:MGI Symbol;Acc:MGI:1929618]	59045
+ENSMUSG00000024378	Stard4	StAR-related lipid transfer (START) domain containing 4 [Source:MGI Symbol;Acc:MGI:2156764]	170459
+ENSMUSG00000026104	Stat1	signal transducer and activator of transcription 1 [Source:MGI Symbol;Acc:MGI:103063]	20846
+ENSMUSG00000040033	Stat2	signal transducer and activator of transcription 2 [Source:MGI Symbol;Acc:MGI:103039]	20847
+ENSMUSG00000004040	Stat3	signal transducer and activator of transcription 3 [Source:MGI Symbol;Acc:MGI:103038]	20848
+ENSMUSG00000028718	Stil	Scl/Tal1 interrupting locus [Source:MGI Symbol;Acc:MGI:107477]	20460
+ENSMUSG00000042608	Stk40	serine/threonine kinase 40 [Source:MGI Symbol;Acc:MGI:1921428]	74178
+ENSMUSG00000029428	Stx2	syntaxin 2 [Source:MGI Symbol;Acc:MGI:108059]	13852
+ENSMUSG00000026797	Stxbp1	syntaxin binding protein 1 [Source:MGI Symbol;Acc:MGI:107363]	20910
+ENSMUSG00000022205	Sub1	SUB1 homolog (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:104811]	20024
+ENSMUSG00000061838	Suclg2	succinate-Coenzyme A ligase, GDP-forming, beta subunit [Source:MGI Symbol;Acc:MGI:1306824]	20917
+ENSMUSG00000032423	Syncrip	synaptotagmin binding, cytoplasmic RNA interacting protein [Source:MGI Symbol;Acc:MGI:1891690]	56403
+ENSMUSG00000037313	Tacc3	transforming, acidic coiled-coil containing protein 3 [Source:MGI Symbol;Acc:MGI:1341163]	21335
+ENSMUSG00000031939	Taf1d	TATA box binding protein (Tbp)-associated factor, RNA polymerase I, D [Source:MGI Symbol;Acc:MGI:1922566]	75316
+ENSMUSG00000026547	Tagln2	transgelin 2 [Source:MGI Symbol;Acc:MGI:1312985]	21346
+ENSMUSG00000037321	Tap1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP) [Source:MGI Symbol;Acc:MGI:98483]	21354
+ENSMUSG00000024339	Tap2	transporter 2, ATP-binding cassette, sub-family B (MDR/TAP) [Source:MGI Symbol;Acc:MGI:98484]	21355
+ENSMUSG00000024308	Tapbp	TAP binding protein [Source:MGI Symbol;Acc:MGI:1201689]	21356
+ENSMUSG00000038213	Tapbpl	TAP binding protein-like [Source:MGI Symbol;Acc:MGI:2384853]	213233
+ENSMUSG00000039033	Tasp1	taspase, threonine aspartase 1 [Source:MGI Symbol;Acc:MGI:1923062]	75812
+ENSMUSG00000020130	Tbc1d15	TBC1 domain family, member 15 [Source:MGI Symbol;Acc:MGI:1913937]	66687
+ENSMUSG00000003134	Tbc1d8	TBC1 domain family, member 8 [Source:MGI Symbol;Acc:MGI:1927225]	54610
+ENSMUSG00000027630	Tbl1xr1	transducin (beta)-like 1X-linked receptor 1 [Source:MGI Symbol;Acc:MGI:2441730]	81004
+ENSMUSG00000040688	Tbl3	transducin (beta)-like 3 [Source:MGI Symbol;Acc:MGI:2384863]	213773
+ENSMUSG00000053477	Tcf4	transcription factor 4 [Source:MGI Symbol;Acc:MGI:98506]	21413
+ENSMUSG00000024985	Tcf7l2	transcription factor 7 like 2, T cell specific, HMG box [Source:MGI Symbol;Acc:MGI:1202879]	21416
+ENSMUSG00000024613	Tcof1	Treacher Collins Franceschetti syndrome 1, homolog [Source:MGI Symbol;Acc:MGI:892003]	21453
+ENSMUSG00000035517	Tdrd7	tudor domain containing 7 [Source:MGI Symbol;Acc:MGI:2140279]	100121
+ENSMUSG00000026492	Tfb2m	transcription factor B2, mitochondrial [Source:MGI Symbol;Acc:MGI:107937]	15278
+ENSMUSG00000022797	Tfrc	transferrin receptor [Source:MGI Symbol;Acc:MGI:98822]	22042
+ENSMUSG00000037820	Tgm2	transglutaminase 2, C polypeptide [Source:MGI Symbol;Acc:MGI:98731]	21817
+ENSMUSG00000078921	Tgtp2	T cell specific GTPase 2 [Source:MGI Symbol;Acc:MGI:3710083]	100039796
+ENSMUSG00000037731	Themis2	thymocyte selection associated family member 2 [Source:MGI Symbol;Acc:MGI:2446213]	230787
+ENSMUSG00000023800	Tiam2	T cell lymphoma invasion and metastasis 2 [Source:MGI Symbol;Acc:MGI:1344338]	24001
+ENSMUSG00000039994	Timeless	timeless circadian clock 1 [Source:MGI Symbol;Acc:MGI:1321393]	21853
+ENSMUSG00000021079	Timm9	translocase of inner mitochondrial membrane 9 [Source:MGI Symbol;Acc:MGI:1353436]	30056
+ENSMUSG00000034640	Tiparp	TCDD-inducible poly(ADP-ribose) polymerase [Source:MGI Symbol;Acc:MGI:2159210]	99929
+ENSMUSG00000030516	Tjp1	tight junction protein 1 [Source:MGI Symbol;Acc:MGI:98759]	21872
+ENSMUSG00000024812	Tjp2	tight junction protein 2 [Source:MGI Symbol;Acc:MGI:1341872]	21873
+ENSMUSG00000019437	Tlcd1	TLC domain containing 1 [Source:MGI Symbol;Acc:MGI:1915572]	68385
+ENSMUSG00000032280	Tle3	transducin-like enhancer of split 3, homolog of Drosophila E(spl) [Source:MGI Symbol;Acc:MGI:104634]	21887
+ENSMUSG00000024642	Tle4	transducin-like enhancer of split 4, homolog of Drosophila E(spl) [Source:MGI Symbol;Acc:MGI:104633]	21888
+ENSMUSG00000020694	Tlk2	tousled-like kinase 2 (Arabidopsis) [Source:MGI Symbol;Acc:MGI:1346023]	24086
+ENSMUSG00000031639	Tlr3	toll-like receptor 3 [Source:MGI Symbol;Acc:MGI:2156367]	142980
+ENSMUSG00000034947	Tmem106a	transmembrane protein 106A [Source:MGI Symbol;Acc:MGI:1922056]	217203
+ENSMUSG00000034659	Tmem109	transmembrane protein 109 [Source:MGI Symbol;Acc:MGI:1915789]	68539
+ENSMUSG00000054675	Tmem119	transmembrane protein 119 [Source:MGI Symbol;Acc:MGI:2385228]	231633
+ENSMUSG00000050912	Tmem123	transmembrane protein 123 [Source:MGI Symbol;Acc:MGI:1919179]	71929
+ENSMUSG00000039428	Tmem135	transmembrane protein 135 [Source:MGI Symbol;Acc:MGI:1920009]	72759
+ENSMUSG00000057137	Tmem140	transmembrane protein 140 [Source:MGI Symbol;Acc:MGI:1915737]	68487
+ENSMUSG00000026939	Tmem141	transmembrane protein 141 [Source:MGI Symbol;Acc:MGI:1098773]	51875
+ENSMUSG00000027956	Tmem144	transmembrane protein 144 [Source:MGI Symbol;Acc:MGI:1917902]	70652
+ENSMUSG00000009035	Tmem184b	transmembrane protein 184b [Source:MGI Symbol;Acc:MGI:2445179]	223693
+ENSMUSG00000031617	Tmem184c	transmembrane protein 184C [Source:MGI Symbol;Acc:MGI:2384562]	234463
+ENSMUSG00000060538	Tmem219	transmembrane protein 219 [Source:MGI Symbol;Acc:MGI:1915992]	68742
+ENSMUSG00000046157	Tmem229b	transmembrane protein 229B [Source:MGI Symbol;Acc:MGI:2444389]	268567
+ENSMUSG00000055296	Tmem245	transmembrane protein 245 [Source:MGI Symbol;Acc:MGI:2445107]	242474
+ENSMUSG00000028420	Tmem38b	transmembrane protein 38B [Source:MGI Symbol;Acc:MGI:1098718]	52076
+ENSMUSG00000019961	Tmpo	thymopoietin [Source:MGI Symbol;Acc:MGI:106920]	21917
+ENSMUSG00000017615	Tnfaip1	tumor necrosis factor, alpha-induced protein 1 (endothelial) [Source:MGI Symbol;Acc:MGI:104961]	21927
+ENSMUSG00000021281	Tnfaip2	tumor necrosis factor, alpha-induced protein 2 [Source:MGI Symbol;Acc:MGI:104960]	21928
+ENSMUSG00000010142	Tnfrsf13b	tumor necrosis factor receptor superfamily, member 13b [Source:MGI Symbol;Acc:MGI:1889411]	57916
+ENSMUSG00000028599	Tnfrsf1b	tumor necrosis factor receptor superfamily, member 1b [Source:MGI Symbol;Acc:MGI:1314883]	21938
+ENSMUSG00000039304	Tnfsf10	tumor necrosis factor (ligand) superfamily, member 10 [Source:MGI Symbol;Acc:MGI:107414]	22035
+ENSMUSG00000026466	Tor1aip1	torsin A interacting protein 1 [Source:MGI Symbol;Acc:MGI:3582693]	208263
+ENSMUSG00000050565	Tor1aip2	torsin A interacting protein 2 [Source:MGI Symbol;Acc:MGI:3582695]	240832
+ENSMUSG00000079252	Tor1aip2	torsin A interacting protein 2 [Source:MGI Symbol;Acc:MGI:3582695]	240832
+ENSMUSG00000060519	Tor3a	torsin family 3, member A [Source:MGI Symbol;Acc:MGI:1353652]	30935
+ENSMUSG00000032741	Tpcn1	two pore channel 1 [Source:MGI Symbol;Acc:MGI:2182472]	252972
+ENSMUSG00000032366	Tpm1	tropomyosin 1, alpha [Source:MGI Symbol;Acc:MGI:98809]	22003
+ENSMUSG00000014846	Tppp3	tubulin polymerization-promoting protein family member 3 [Source:MGI Symbol;Acc:MGI:1915221]	67971
+ENSMUSG00000027469	Tpx2	TPX2, microtubule-associated protein homolog (Xenopus laevis) [Source:MGI Symbol;Acc:MGI:1919369]	72119
+ENSMUSG00000026875	Traf1	TNF receptor-associated factor 1 [Source:MGI Symbol;Acc:MGI:101836]	22029
+ENSMUSG00000026942	Traf2	TNF receptor-associated factor 2 [Source:MGI Symbol;Acc:MGI:101835]	22030
+ENSMUSG00000042726	Trafd1	TRAF type zinc finger domain containing 1 [Source:MGI Symbol;Acc:MGI:1923551]	231712
+ENSMUSG00000066258	Trim12a	tripartite motif-containing 12A [Source:MGI Symbol;Acc:MGI:1923931]	76681
+ENSMUSG00000030966	Trim21	tripartite motif-containing 21 [Source:MGI Symbol;Acc:MGI:106657]	20821
+ENSMUSG00000000275	Trim25	tripartite motif-containing 25 [Source:MGI Symbol;Acc:MGI:102749]	217069
+ENSMUSG00000024457	Trim26	tripartite motif-containing 26 [Source:MGI Symbol;Acc:MGI:1337056]	22670
+ENSMUSG00000030921	Trim30a	tripartite motif-containing 30A [Source:MGI Symbol;Acc:MGI:98178]	20128
+ENSMUSG00000057596	Trim30d	tripartite motif-containing 30D [Source:MGI Symbol;Acc:MGI:3035181]	209387
+ENSMUSG00000056144	Trim34a	tripartite motif-containing 34A [Source:MGI Symbol;Acc:MGI:2137359]	94094
+ENSMUSG00000018548	Trim37	tripartite motif-containing 37 [Source:MGI Symbol;Acc:MGI:2153072]	68729
+ENSMUSG00000034317	Trim59	tripartite motif-containing 59 [Source:MGI Symbol;Acc:MGI:1914199]	66949
+ENSMUSG00000033088	Triobp	TRIO and F-actin binding protein [Source:MGI Symbol;Acc:MGI:1349410]	110253
+ENSMUSG00000046982	Tshz1	teashirt zinc finger family member 1 [Source:MGI Symbol;Acc:MGI:1346031]	110796
+ENSMUSG00000041736	Tspo	translocator protein [Source:MGI Symbol;Acc:MGI:88222]	12257
+ENSMUSG00000038335	Tsr1	TSR1 20S rRNA accumulation [Source:MGI Symbol;Acc:MGI:2144566]	104662
+ENSMUSG00000033209	Ttc28	tetratricopeptide repeat domain 28 [Source:MGI Symbol;Acc:MGI:2140873]	209683
+ENSMUSG00000038172	Ttc39b	tetratricopeptide repeat domain 39B [Source:MGI Symbol;Acc:MGI:1917113]	69863
+ENSMUSG00000026202	Tuba4a	tubulin, alpha 4A [Source:MGI Symbol;Acc:MGI:1095410]	22145
+ENSMUSG00000023277	Twf2	twinfilin, actin-binding protein, homolog 2 (Drosophila) [Source:MGI Symbol;Acc:MGI:1346078]	23999
+ENSMUSG00000024583	Txnl1	thioredoxin-like 1 [Source:MGI Symbol;Acc:MGI:1860078]	53382
+ENSMUSG00000000811	Txnrd3	thioredoxin reductase 3 [Source:MGI Symbol;Acc:MGI:2386711]	232223
+ENSMUSG00000032175	Tyk2	tyrosine kinase 2 [Source:MGI Symbol;Acc:MGI:1929470]	54721
+ENSMUSG00000032596	Uba7	ubiquitin-like modifier activating enzyme 7 [Source:MGI Symbol;Acc:MGI:1349462]	74153
+ENSMUSG00000027078	Ube2l6	ubiquitin-conjugating enzyme E2L 6 [Source:MGI Symbol;Acc:MGI:1914500]	56791
+ENSMUSG00000022674	Ube2v2	ubiquitin-conjugating enzyme E2 variant 2 [Source:MGI Symbol;Acc:MGI:1917870]	70620
+ENSMUSG00000020923	Ubtf	upstream binding transcription factor, RNA polymerase I [Source:MGI Symbol;Acc:MGI:98512]	21429
+ENSMUSG00000026667	Uhmk1	U2AF homology motif (UHM) kinase 1 [Source:MGI Symbol;Acc:MGI:1341908]	16589
+ENSMUSG00000001228	Uhrf1	ubiquitin-like, containing PHD and RING finger domains, 1 [Source:MGI Symbol;Acc:MGI:1338889]	18140
+ENSMUSG00000004798	Ulk2	unc-51 like kinase 2 [Source:MGI Symbol;Acc:MGI:1352758]	29869
+ENSMUSG00000002395	Use1	unconventional SNARE in the ER 1 homolog (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1914273]	67023
+ENSMUSG00000031826	Usp10	ubiquitin specific peptidase 10 [Source:MGI Symbol;Acc:MGI:894652]	22224
+ENSMUSG00000030107	Usp18	ubiquitin specific peptidase 18 [Source:MGI Symbol;Acc:MGI:1344364]	24110
+ENSMUSG00000056342	Usp34	ubiquitin specific peptidase 34 [Source:MGI Symbol;Acc:MGI:109473]	17847
+ENSMUSG00000059263	Usp47	ubiquitin specific peptidase 47 [Source:MGI Symbol;Acc:MGI:1922246]	74996
+ENSMUSG00000026696	Vamp4	vesicle-associated membrane protein 4 [Source:MGI Symbol;Acc:MGI:1858730]	53330
+ENSMUSG00000034993	Vat1	vesicle amine transport protein 1 homolog (T californica) [Source:MGI Symbol;Acc:MGI:1349450]	26949
+ENSMUSG00000027962	Vcam1	vascular cell adhesion molecule 1 [Source:MGI Symbol;Acc:MGI:98926]	22329
+ENSMUSG00000020010	Vnn3	vanin 3 [Source:MGI Symbol;Acc:MGI:1347055]	26464
+ENSMUSG00000021115	Vrk1	vaccinia related kinase 1 [Source:MGI Symbol;Acc:MGI:1261847]	22367
+ENSMUSG00000021266	Wars	tryptophanyl-tRNA synthetase [Source:MGI Symbol;Acc:MGI:104630]	101056688
+ENSMUSG00000073643	Wdfy1	WD repeat and FYVE domain containing 1 [Source:MGI Symbol;Acc:MGI:1916618]	69368
+ENSMUSG00000026019	Wdr12	WD repeat domain 12 [Source:MGI Symbol;Acc:MGI:1927241]	57750
+ENSMUSG00000038299	Wdr36	WD repeat domain 36 [Source:MGI Symbol;Acc:MGI:1917819]	225348
+ENSMUSG00000066357	Wdr6	WD repeat domain 6 [Source:MGI Symbol;Acc:MGI:1930140]	83669
+ENSMUSG00000042729	Wdr74	WD repeat domain 74 [Source:MGI Symbol;Acc:MGI:2147427]	107071
+ENSMUSG00000000561	Wdr77	WD repeat domain 77 [Source:MGI Symbol;Acc:MGI:1917715]	70465
+ENSMUSG00000026988	Wdsub1	WD repeat, SAM and U-box domain containing 1 [Source:MGI Symbol;Acc:MGI:1919387]	72137
+ENSMUSG00000041058	Wwp1	WW domain containing E3 ubiquitin protein ligase 1 [Source:MGI Symbol;Acc:MGI:1861728]	107568
+ENSMUSG00000024066	Xdh	xanthine dehydrogenase [Source:MGI Symbol;Acc:MGI:98973]	22436
+ENSMUSG00000075054	Yae1d1	Yae1 domain containing 1 [Source:MGI Symbol;Acc:MGI:1914258]	67008
+ENSMUSG00000042675	Ypel3	yippee-like 3 (Drosophila) [Source:MGI Symbol;Acc:MGI:1913340]	66090
+ENSMUSG00000039770	Ypel5	yippee-like 5 (Drosophila) [Source:MGI Symbol;Acc:MGI:1916937]	383295
+ENSMUSG00000038848	Ythdf1	YTH domain family 1 [Source:MGI Symbol;Acc:MGI:1917431]	228994
+ENSMUSG00000027514	Zbp1	Z-DNA binding protein 1 [Source:MGI Symbol;Acc:MGI:1927449]	58203
+ENSMUSG00000049672	Zbtb14	zinc finger and BTB domain containing 14 [Source:MGI Symbol;Acc:MGI:1195345]	22666
+ENSMUSG00000022708	Zbtb20	zinc finger and BTB domain containing 20 [Source:MGI Symbol;Acc:MGI:1929213]	56490
+ENSMUSG00000046962	Zbtb21	zinc finger and BTB domain containing 21 [Source:MGI Symbol;Acc:MGI:1927240]	114565
+ENSMUSG00000051390	Zbtb22	zinc finger and BTB domain containing 22 [Source:MGI Symbol;Acc:MGI:1931870]	81630
+ENSMUSG00000037965	Zc3h7a	zinc finger CCCH type containing 7 A [Source:MGI Symbol;Acc:MGI:2445044]	106205
+ENSMUSG00000034265	Zdhhc14	zinc finger, DHHC domain containing 14 [Source:MGI Symbol;Acc:MGI:2653229]	224454
+ENSMUSG00000053581	Zfand2a	zinc finger, AN1-type domain 2A [Source:MGI Symbol;Acc:MGI:2140729]	100494
+ENSMUSG00000038872	Zfhx3	zinc finger homeobox 3 [Source:MGI Symbol;Acc:MGI:99948]	11906
+ENSMUSG00000058638	Zfp110	zinc finger protein 110 [Source:MGI Symbol;Acc:MGI:1890378]	65020
+ENSMUSG00000046556	Zfp319	zinc finger protein 319 [Source:MGI Symbol;Acc:MGI:1890618]	79233
+ENSMUSG00000058291	Zfp68	zinc finger protein 68 [Source:MGI Symbol;Acc:MGI:1344427]	24135
+ENSMUSG00000040209	Zfp704	zinc finger protein 704 [Source:MGI Symbol;Acc:MGI:2180715]	170753
+ENSMUSG00000078861	Zfp931	zinc finger protein 931 [Source:MGI Symbol;Acc:MGI:2441662]	353208
+ENSMUSG00000030393	Zik1	zinc finger protein interacting with K protein 1 [Source:MGI Symbol;Acc:MGI:108070]	22775
+ENSMUSG00000027663	Zmat3	zinc finger matrin type 3 [Source:MGI Symbol;Acc:MGI:1195270]	22401
+ENSMUSG00000039501	Znfx1	zinc finger, NFX1-type containing 1 [Source:MGI Symbol;Acc:MGI:2138982]	98999
+ENSMUSG00000014243	Zswim7	zinc finger SWIM-type containing 7 [Source:MGI Symbol;Acc:MGI:1916997]	69747
