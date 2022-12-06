@@ -7,15 +7,11 @@ library(ggpubr)
 library(tidyverse)
 library(scales)
 
-#read in single-cell data
-data<-readRDS("exportList_integrated_RNA_ADT_20210409.RDS")
-
-data_norm<-data$integrated_RNA_data
-data_cord<-data$umap_embeddings
-meta<-data$meta.data
-prot_int<-data$integrated_ADT_data
-prot_raw<-data$ADT_data
-rm(data)
+data_norm<-samplesIntegratedStandard@assays$integrated@data
+data_cord<-samplesIntegratedStandard@reductions$umap@cell.embeddings
+meta<-samplesIntegratedStandard@meta.data
+prot_int<-samplesIntegratedStandard@assays$integrated_ADT@data
+prot_raw<-samplesIntegratedStandard@assays$ADT@data
 
 #generate ensembl annotations
 ensembl <- useMart("ensembl")
@@ -30,7 +26,7 @@ anno<-getBM(attributes=c("ensembl_gene_id", "external_gene_name"),
 markers<-read.csv("data/supp_table1.csv", sep=",")[,1] 
 
 #top expressed genes
-top50<-readRDS("RNA_IntegratedStandard_MarkersTop50_1.1.RDS")
+top50<-getTopMarkersGnames(samplesIntegratedStandardMarkers_1.1, 50)
 top_macro<-readRDS("markersList_res.1.1_integratedStandard_allMoMphi.RDS") %>%  rbindlist()
 
 #Interferon pathway genes
